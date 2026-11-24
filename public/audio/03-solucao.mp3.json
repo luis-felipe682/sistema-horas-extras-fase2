@@ -1,127 +1,152 @@
 [
   {
-    "part": "Na ",
+    "part": "Eu ",
     "start": 52,
-    "end": 236
+    "end": 223
   },
   {
-    "part": "base: ",
-    "start": 250,
-    "end": 736
-  },
-  {
-    "part": "interface ",
-    "start": 1000,
-    "end": 1684
-  },
-  {
-    "part": "web, ",
-    "start": 1697,
-    "end": 2105
-  },
-  {
-    "part": "API ",
-    "start": 2355,
-    "end": 2776
-  },
-  {
-    "part": "REST ",
-    "start": 2789,
-    "end": 3157
-  },
-  {
-    "part": "em ",
-    "start": 3171,
-    "end": 3223
+    "part": "escolhi ",
+    "start": 236,
+    "end": 657
   },
   {
     "part": "Node",
-    "start": 3236,
-    "end": 3513
+    "start": 671,
+    "end": 947
   },
   {
     "part": ".",
-    "start": 3526,
-    "end": 3868
+    "start": 960,
+    "end": 1328
   },
   {
     "part": "js ",
-    "start": 3881,
-    "end": 4815
-  },
-  {
-    "part": "e ",
-    "start": 4828,
-    "end": 4881
-  },
-  {
-    "part": "banco ",
-    "start": 4894,
-    "end": 5315
-  },
-  {
-    "part": "SQLite. ",
-    "start": 5328,
-    "end": 6144
-  },
-  {
-    "part": "Senhas ",
-    "start": 7052,
-    "end": 7539
-  },
-  {
-    "part": "protegidas ",
-    "start": 7552,
-    "end": 8236
-  },
-  {
-    "part": "por ",
-    "start": 8250,
-    "end": 8447
-  },
-  {
-    "part": "scrypt. ",
-    "start": 8460,
-    "end": 10105
-  },
-  {
-    "part": "Sessões ",
-    "start": 11013,
-    "end": 11631
+    "start": 1342,
+    "end": 2105
   },
   {
     "part": "com ",
-    "start": 11644,
-    "end": 11868
+    "start": 2118,
+    "end": 2302
+  },
+  {
+    "part": "API ",
+    "start": 2315,
+    "end": 2657
+  },
+  {
+    "part": "REST. ",
+    "start": 2671,
+    "end": 3184
+  },
+  {
+    "part": "No ",
+    "start": 4092,
+    "end": 4289
+  },
+  {
+    "part": "banco, ",
+    "start": 4302,
+    "end": 4697
+  },
+  {
+    "part": "salvo ",
+    "start": 5000,
+    "end": 5381
+  },
+  {
+    "part": "os ",
+    "start": 5394,
+    "end": 5473
+  },
+  {
+    "part": "registros ",
+    "start": 5486,
+    "end": 6092
+  },
+  {
+    "part": "no ",
+    "start": 6105,
+    "end": 6197
+  },
+  {
+    "part": "arquivo ",
+    "start": 6210,
+    "end": 6657
+  },
+  {
+    "part": "dados",
+    "start": 6671,
+    "end": 7052
+  },
+  {
+    "part": ".",
+    "start": 7065,
+    "end": 7381
+  },
+  {
+    "part": "sqlite. ",
+    "start": 7394,
+    "end": 7907
+  },
+  {
+    "part": "A ",
+    "start": 8815,
+    "end": 8907
+  },
+  {
+    "part": "autenticação ",
+    "start": 8921,
+    "end": 9776
+  },
+  {
+    "part": "usa ",
+    "start": 9789,
+    "end": 10065
   },
   {
     "part": "token ",
-    "start": 11881,
-    "end": 12263
+    "start": 10078,
+    "end": 10486
   },
   {
-    "part": "assinado, ",
-    "start": 12276,
-    "end": 12894
+    "part": "assinado ",
+    "start": 10500,
+    "end": 10986
   },
   {
     "part": "equivalente ",
-    "start": 13118,
-    "end": 13789
+    "start": 11000,
+    "end": 11631
   },
   {
-    "part": "ao ",
-    "start": 13802,
-    "end": 13868
+    "part": "a ",
+    "start": 11644,
+    "end": 11723
   },
   {
-    "part": "formato ",
-    "start": 13881,
-    "end": 14447
+    "part": "JWT. ",
+    "start": 11736,
+    "end": 12736
   },
   {
-    "part": "JWT.",
-    "start": 14460,
-    "end": 15526
+    "part": "Também ",
+    "start": 13644,
+    "end": 14078
+  },
+  {
+    "part": "separei ",
+    "start": 14092,
+    "end": 14565
+  },
+  {
+    "part": "os ",
+    "start": 14578,
+    "end": 14697
+  },
+  {
+    "part": "perfis.",
+    "start": 14710,
+    "end": 15315
   }
 ]

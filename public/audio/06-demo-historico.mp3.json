@@ -1,102 +1,122 @@
 [
   {
-    "part": "Os ",
+    "part": "Depois, ",
     "start": 52,
-    "end": 210
+    "end": 644
   },
   {
-    "part": "registros ",
-    "start": 223,
-    "end": 881
+    "part": "eu ",
+    "start": 907,
+    "end": 1039
   },
   {
-    "part": "podem ",
-    "start": 894,
-    "end": 1157
+    "part": "consulto ",
+    "start": 1052,
+    "end": 1618
   },
   {
-    "part": "ser ",
-    "start": 1171,
-    "end": 1381
+    "part": "o ",
+    "start": 1631,
+    "end": 1671
   },
   {
-    "part": "filtrados ",
-    "start": 1394,
-    "end": 2000
+    "part": "histórico ",
+    "start": 1684,
+    "end": 2223
+  },
+  {
+    "part": "e ",
+    "start": 2236,
+    "end": 2315
+  },
+  {
+    "part": "filtro ",
+    "start": 2328,
+    "end": 2710
   },
   {
     "part": "por ",
-    "start": 2013,
-    "end": 2197
+    "start": 2723,
+    "end": 2907
   },
   {
     "part": "tipo ",
-    "start": 2210,
-    "end": 2552
-  },
-  {
-    "part": "e ",
-    "start": 2565,
-    "end": 2592
-  },
-  {
-    "part": "status. ",
-    "start": 2605,
-    "end": 3250
-  },
-  {
-    "part": "O ",
-    "start": 4157,
-    "end": 4276
-  },
-  {
-    "part": "colaborador ",
-    "start": 4289,
-    "end": 4934
-  },
-  {
-    "part": "acompanha ",
-    "start": 4947,
-    "end": 5500
-  },
-  {
-    "part": "justificativas, ",
-    "start": 5513,
-    "end": 6552
-  },
-  {
-    "part": "pareceres ",
-    "start": 6776,
-    "end": 7342
-  },
-  {
-    "part": "e ",
-    "start": 7355,
-    "end": 7460
-  },
-  {
-    "part": "situações: ",
-    "start": 7473,
-    "end": 8223
-  },
-  {
-    "part": "pendente, ",
-    "start": 8552,
-    "end": 9171
-  },
-  {
-    "part": "aprovado ",
-    "start": 9421,
-    "end": 10039
+    "start": 2921,
+    "end": 3236
   },
   {
     "part": "ou ",
-    "start": 10052,
-    "end": 10118
+    "start": 3250,
+    "end": 3368
+  },
+  {
+    "part": "status. ",
+    "start": 3381,
+    "end": 4052
+  },
+  {
+    "part": "Cada ",
+    "start": 4960,
+    "end": 5236
+  },
+  {
+    "part": "lançamento ",
+    "start": 5250,
+    "end": 5907
+  },
+  {
+    "part": "mostra ",
+    "start": 5921,
+    "end": 6328
+  },
+  {
+    "part": "duração, ",
+    "start": 6342,
+    "end": 6907
+  },
+  {
+    "part": "justificativa, ",
+    "start": 7197,
+    "end": 8171
+  },
+  {
+    "part": "parecer ",
+    "start": 8407,
+    "end": 8907
+  },
+  {
+    "part": "e ",
+    "start": 8921,
+    "end": 8960
+  },
+  {
+    "part": "se ",
+    "start": 8973,
+    "end": 9065
+  },
+  {
+    "part": "está ",
+    "start": 9078,
+    "end": 9276
+  },
+  {
+    "part": "pendente, ",
+    "start": 9289,
+    "end": 9921
+  },
+  {
+    "part": "aprovado ",
+    "start": 10184,
+    "end": 10815
+  },
+  {
+    "part": "ou ",
+    "start": 10828,
+    "end": 10907
   },
   {
     "part": "reprovado.",
-    "start": 10131,
-    "end": 10815
+    "start": 10921,
+    "end": 11631
   }
 ]

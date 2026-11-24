@@ -1,152 +1,192 @@
 [
   {
-    "part": "Planilhas ",
+    "part": "Eu ",
     "start": 52,
-    "end": 644
+    "end": 236
   },
   {
-    "part": "dispersas ",
-    "start": 657,
-    "end": 1342
+    "part": "comecei ",
+    "start": 250,
+    "end": 750
   },
   {
-    "part": "tornam ",
-    "start": 1355,
-    "end": 1710
+    "part": "por ",
+    "start": 763,
+    "end": 894
   },
   {
-    "part": "o ",
-    "start": 1723,
-    "end": 1763
+    "part": "um ",
+    "start": 907,
+    "end": 986
   },
   {
-    "part": "controle ",
-    "start": 1776,
-    "end": 2236
+    "part": "problema ",
+    "start": 1000,
+    "end": 1447
   },
   {
-    "part": "de ",
-    "start": 2250,
-    "end": 2368
+    "part": "concreto: ",
+    "start": 1460,
+    "end": 2078
   },
   {
-    "part": "horas ",
-    "start": 2381,
-    "end": 2684
+    "part": "planilhas ",
+    "start": 2328,
+    "end": 2842
   },
   {
-    "part": "sujeito ",
-    "start": 2697,
-    "end": 3171
+    "part": "manuais ",
+    "start": 2855,
+    "end": 3355
   },
   {
-    "part": "a ",
-    "start": 3184,
-    "end": 3289
+    "part": "causam ",
+    "start": 3368,
+    "end": 3815
   },
   {
     "part": "erros ",
-    "start": 3302,
-    "end": 3605
+    "start": 3828,
+    "end": 4078
   },
   {
     "part": "e ",
-    "start": 3618,
-    "end": 3710
+    "start": 4092,
+    "end": 4197
   },
   {
     "part": "retrabalho. ",
-    "start": 3723,
-    "end": 4394
+    "start": 4210,
+    "end": 4842
+  },
+  {
+    "part": "Também ",
+    "start": 5750,
+    "end": 6171
+  },
+  {
+    "part": "falta ",
+    "start": 6184,
+    "end": 6565
+  },
+  {
+    "part": "transparência ",
+    "start": 6578,
+    "end": 7302
+  },
+  {
+    "part": "nos ",
+    "start": 7315,
+    "end": 7499
+  },
+  {
+    "part": "cálculos ",
+    "start": 7513,
+    "end": 7999
+  },
+  {
+    "part": "de ",
+    "start": 8013,
+    "end": 8131
+  },
+  {
+    "part": "hora ",
+    "start": 8144,
+    "end": 8421
+  },
+  {
+    "part": "extra ",
+    "start": 8434,
+    "end": 8815
+  },
+  {
+    "part": "de ",
+    "start": 8828,
+    "end": 8921
+  },
+  {
+    "part": "cinquenta ",
+    "start": 8934,
+    "end": 9447
+  },
+  {
+    "part": "e ",
+    "start": 9460,
+    "end": 9486
+  },
+  {
+    "part": "cem ",
+    "start": 9500,
+    "end": 9710
+  },
+  {
+    "part": "por ",
+    "start": 9723,
+    "end": 9881
+  },
+  {
+    "part": "cento ",
+    "start": 9894,
+    "end": 10250
+  },
+  {
+    "part": "e ",
+    "start": 10263,
+    "end": 10289
+  },
+  {
+    "part": "no ",
+    "start": 10302,
+    "end": 10407
+  },
+  {
+    "part": "sobreaviso. ",
+    "start": 10421,
+    "end": 11157
   },
   {
     "part": "Sem ",
-    "start": 5302,
-    "end": 5644
+    "start": 12065,
+    "end": 12394
   },
   {
-    "part": "rastreabilidade, ",
-    "start": 5657,
-    "end": 6657
-  },
-  {
-    "part": "colaboradores ",
-    "start": 6907,
-    "end": 7750
+    "part": "justificativas ",
+    "start": 12407,
+    "end": 13250
   },
   {
     "part": "e ",
-    "start": 7763,
-    "end": 7855
+    "start": 13263,
+    "end": 13355
   },
   {
-    "part": "gestores ",
-    "start": 7868,
-    "end": 8434
+    "part": "histórico, ",
+    "start": 13368,
+    "end": 13947
   },
   {
-    "part": "têm ",
-    "start": 8447,
-    "end": 8578
+    "part": "conferir ",
+    "start": 14263,
+    "end": 14802
   },
   {
-    "part": "dificuldade ",
-    "start": 8592,
-    "end": 9342
+    "part": "os ",
+    "start": 14815,
+    "end": 14907
   },
   {
-    "part": "para ",
-    "start": 9355,
-    "end": 9552
+    "part": "lançamentos ",
+    "start": 14921,
+    "end": 15605
   },
   {
-    "part": "consultar ",
-    "start": 9565,
-    "end": 10171
+    "part": "é ",
+    "start": 15618,
+    "end": 15749
   },
   {
-    "part": "justificativas, ",
-    "start": 10184,
-    "end": 11210
-  },
-  {
-    "part": "históricos ",
-    "start": 11513,
-    "end": 12026
-  },
-  {
-    "part": "e ",
-    "start": 12039,
-    "end": 12144
-  },
-  {
-    "part": "acompanhar ",
-    "start": 12157,
-    "end": 12750
-  },
-  {
-    "part": "as ",
-    "start": 12763,
-    "end": 12855
-  },
-  {
-    "part": "decisões ",
-    "start": 12868,
-    "end": 13447
-  },
-  {
-    "part": "sobre ",
-    "start": 13460,
-    "end": 13697
-  },
-  {
-    "part": "cada ",
-    "start": 13710,
-    "end": 14026
-  },
-  {
-    "part": "solicitação.",
-    "start": 14039,
-    "end": 14934
+    "part": "difícil.",
+    "start": 15763,
+    "end": 16368
   }
 ]

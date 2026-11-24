@@ -1,147 +1,142 @@
 [
   {
-    "part": "No ",
+    "part": "Eu ",
     "start": 52,
-    "end": 223
+    "end": 210
   },
   {
-    "part": "lançamento, ",
-    "start": 236,
-    "end": 999
+    "part": "informo ",
+    "start": 223,
+    "end": 723
   },
   {
-    "part": "escolhe ",
-    "start": 1289,
-    "end": 1736
+    "part": "tipo, ",
+    "start": 736,
+    "end": 1118
   },
   {
-    "part": "hora ",
-    "start": 1750,
-    "end": 1986
-  },
-  {
-    "part": "extra ",
-    "start": 2000,
-    "end": 2421
-  },
-  {
-    "part": "ou ",
-    "start": 2434,
-    "end": 2499
-  },
-  {
-    "part": "sobreaviso, ",
-    "start": 2513,
-    "end": 3236
-  },
-  {
-    "part": "informa ",
-    "start": 3552,
-    "end": 4105
-  },
-  {
-    "part": "datas, ",
-    "start": 4118,
-    "end": 4578
+    "part": "período, ",
+    "start": 1407,
+    "end": 1894
   },
   {
     "part": "horários ",
-    "start": 4815,
-    "end": 5210
+    "start": 2105,
+    "end": 2539
   },
   {
     "part": "e ",
-    "start": 5223,
-    "end": 5328
+    "start": 2552,
+    "end": 2657
   },
   {
     "part": "justificativa. ",
+    "start": 2671,
+    "end": 3671
+  },
+  {
+    "part": "A ",
+    "start": 4578,
+    "end": 4697
+  },
+  {
+    "part": "duração ",
+    "start": 4710,
+    "end": 5249
+  },
+  {
+    "part": "é ",
+    "start": 5263,
+    "end": 5328
+  },
+  {
+    "part": "calculada, ",
     "start": 5342,
-    "end": 6315
+    "end": 6039
   },
   {
-    "part": "O ",
-    "start": 7223,
-    "end": 7355
-  },
-  {
-    "part": "sistema ",
-    "start": 7368,
-    "end": 7868
-  },
-  {
-    "part": "calcula ",
-    "start": 7881,
-    "end": 8302
-  },
-  {
-    "part": "a ",
-    "start": 8315,
-    "end": 8342
-  },
-  {
-    "part": "duração, ",
-    "start": 8355,
-    "end": 8907
-  },
-  {
-    "part": "inclusive ",
-    "start": 9250,
-    "end": 9855
+    "part": "mesmo ",
+    "start": 6276,
+    "end": 6684
   },
   {
     "part": "na ",
-    "start": 9868,
-    "end": 9973
+    "start": 6697,
+    "end": 6815
   },
   {
     "part": "virada ",
-    "start": 9986,
-    "end": 10355
+    "start": 6828,
+    "end": 7223
   },
   {
     "part": "do ",
-    "start": 10368,
-    "end": 10486
+    "start": 7236,
+    "end": 7355
   },
   {
-    "part": "dia, ",
-    "start": 10500,
-    "end": 10815
+    "part": "dia. ",
+    "start": 7368,
+    "end": 7710
+  },
+  {
+    "part": "Escolho ",
+    "start": 8618,
+    "end": 9092
+  },
+  {
+    "part": "adicional ",
+    "start": 9105,
+    "end": 9618
+  },
+  {
+    "part": "de ",
+    "start": 9631,
+    "end": 9749
+  },
+  {
+    "part": "cinquenta ",
+    "start": 9763,
+    "end": 10315
+  },
+  {
+    "part": "ou ",
+    "start": 10328,
+    "end": 10407
+  },
+  {
+    "part": "cem ",
+    "start": 10421,
+    "end": 10684
+  },
+  {
+    "part": "por ",
+    "start": 10697,
+    "end": 10868
+  },
+  {
+    "part": "cento ",
+    "start": 10881,
+    "end": 11249
   },
   {
     "part": "e ",
-    "start": 11144,
-    "end": 11236
+    "start": 11263,
+    "end": 11289
   },
   {
-    "part": "aplica ",
-    "start": 11250,
-    "end": 11723
-  },
-  {
-    "part": "a ",
-    "start": 11736,
-    "end": 11763
+    "part": "aplico ",
+    "start": 11302,
+    "end": 11750
   },
   {
     "part": "compensação ",
-    "start": 11776,
+    "start": 11763,
     "end": 12460
   },
   {
-    "part": "cruzada ",
+    "part": "cruzada.",
     "start": 12473,
-    "end": 13065
-  },
-  {
-    "part": "quando ",
-    "start": 13078,
-    "end": 13342
-  },
-  {
-    "part": "cabível.",
-    "start": 13355,
-    "end": 13907
+    "end": 13039
   }
 ]

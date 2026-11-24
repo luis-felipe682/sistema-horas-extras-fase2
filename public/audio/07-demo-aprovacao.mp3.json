@@ -1,97 +1,117 @@
 [
   {
-    "part": "O ",
+    "part": "Como ",
     "start": 52,
-    "end": 171
+    "end": 342
   },
   {
-    "part": "supervisor ",
-    "start": 184,
-    "end": 868
+    "part": "supervisor, ",
+    "start": 355,
+    "end": 1065
   },
   {
-    "part": "revisa ",
-    "start": 881,
-    "end": 1249
+    "part": "eu ",
+    "start": 1315,
+    "end": 1473
   },
   {
-    "part": "justificativas, ",
-    "start": 1263,
-    "end": 2249
-  },
-  {
-    "part": "inclui ",
-    "start": 2552,
-    "end": 2947
-  },
-  {
-    "part": "parecer ",
-    "start": 2960,
-    "end": 3473
-  },
-  {
-    "part": "e ",
-    "start": 3486,
-    "end": 3539
-  },
-  {
-    "part": "aprova ",
-    "start": 3552,
-    "end": 4078
-  },
-  {
-    "part": "ou ",
-    "start": 4092,
-    "end": 4157
-  },
-  {
-    "part": "reprova. ",
-    "start": 4171,
-    "end": 4749
-  },
-  {
-    "part": "Os ",
-    "start": 5657,
-    "end": 5842
-  },
-  {
-    "part": "totais ",
-    "start": 5855,
-    "end": 6342
-  },
-  {
-    "part": "ficam ",
-    "start": 6355,
-    "end": 6697
-  },
-  {
-    "part": "visíveis, ",
-    "start": 6710,
-    "end": 7368
-  },
-  {
-    "part": "sem ",
-    "start": 7631,
-    "end": 7868
-  },
-  {
-    "part": "acesso ",
-    "start": 7881,
-    "end": 8381
+    "part": "analiso ",
+    "start": 1486,
+    "end": 1986
   },
   {
     "part": "a ",
-    "start": 8394,
-    "end": 8434
+    "start": 2000,
+    "end": 2052
+  },
+  {
+    "part": "justificativa, ",
+    "start": 2065,
+    "end": 2934
+  },
+  {
+    "part": "registro ",
+    "start": 3236,
+    "end": 3789
+  },
+  {
+    "part": "meu ",
+    "start": 3802,
+    "end": 3947
+  },
+  {
+    "part": "parecer ",
+    "start": 3960,
+    "end": 4447
+  },
+  {
+    "part": "e ",
+    "start": 4460,
+    "end": 4513
+  },
+  {
+    "part": "aprovo ",
+    "start": 4526,
+    "end": 5026
+  },
+  {
+    "part": "ou ",
+    "start": 5039,
+    "end": 5118
+  },
+  {
+    "part": "reprovo. ",
+    "start": 5131,
+    "end": 5697
+  },
+  {
+    "part": "A ",
+    "start": 6605,
+    "end": 6723
+  },
+  {
+    "part": "visão ",
+    "start": 6736,
+    "end": 7131
+  },
+  {
+    "part": "mostra ",
+    "start": 7144,
+    "end": 7578
+  },
+  {
+    "part": "totais ",
+    "start": 7592,
+    "end": 8039
+  },
+  {
+    "part": "por ",
+    "start": 8052,
+    "end": 8210
+  },
+  {
+    "part": "colaborador, ",
+    "start": 8223,
+    "end": 9013
+  },
+  {
+    "part": "sem ",
+    "start": 9407,
+    "end": 9592
+  },
+  {
+    "part": "expor ",
+    "start": 9605,
+    "end": 9960
   },
   {
     "part": "salários ",
-    "start": 8447,
-    "end": 8894
+    "start": 9973,
+    "end": 10447
   },
   {
     "part": "individuais.",
-    "start": 8907,
-    "end": 9881
+    "start": 10460,
+    "end": 11473
   }
 ]

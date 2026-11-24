@@ -1,112 +1,122 @@
 [
   {
-    "part": "Olá, ",
+    "part": "Eu ",
     "start": 52,
-    "end": 447
+    "end": 236
   },
   {
-    "part": "seja ",
-    "start": 736,
-    "end": 1013
+    "part": "desenvolvi ",
+    "start": 250,
+    "end": 868
   },
   {
-    "part": "bem-vindo ",
-    "start": 1026,
-    "end": 1552
+    "part": "este ",
+    "start": 881,
+    "end": 1092
   },
   {
-    "part": "ao ",
-    "start": 1565,
-    "end": 1671
-  },
-  {
-    "part": "Controle ",
-    "start": 1684,
-    "end": 2171
-  },
-  {
-    "part": "de ",
-    "start": 2184,
-    "end": 2328
-  },
-  {
-    "part": "Horas. ",
-    "start": 2342,
-    "end": 2802
-  },
-  {
-    "part": "Uma ",
-    "start": 3710,
-    "end": 3973
-  },
-  {
-    "part": "plataforma ",
-    "start": 3986,
-    "end": 4736
+    "part": "projeto ",
+    "start": 1105,
+    "end": 1631
   },
   {
     "part": "para ",
-    "start": 4750,
-    "end": 4921
+    "start": 1644,
+    "end": 1802
   },
   {
-    "part": "organizar ",
-    "start": 4934,
-    "end": 5486
+    "part": "acompanhar ",
+    "start": 1815,
+    "end": 2342
   },
   {
     "part": "horas ",
-    "start": 5500,
-    "end": 5723
+    "start": 2355,
+    "end": 2605
   },
   {
     "part": "extras ",
-    "start": 5736,
-    "end": 6118
+    "start": 2618,
+    "end": 2999
   },
   {
     "part": "e ",
-    "start": 6131,
-    "end": 6249
+    "start": 3013,
+    "end": 3131
   },
   {
     "part": "sobreaviso. ",
-    "start": 6263,
-    "end": 7013
+    "start": 3144,
+    "end": 3881
   },
   {
-    "part": "O ",
-    "start": 7921,
-    "end": 8092
+    "part": "Agora ",
+    "start": 4789,
+    "end": 5223
   },
   {
-    "part": "tempo ",
-    "start": 8105,
-    "end": 8473
+    "part": "vou ",
+    "start": 5236,
+    "end": 5368
   },
   {
-    "part": "da ",
-    "start": 8486,
-    "end": 8578
+    "part": "mostrar ",
+    "start": 5381,
+    "end": 5763
   },
   {
-    "part": "sua ",
-    "start": 8592,
-    "end": 8789
+    "part": "a ",
+    "start": 5776,
+    "end": 5815
   },
   {
-    "part": "equipe, ",
-    "start": 8802,
-    "end": 9223
+    "part": "motivação, ",
+    "start": 5828,
+    "end": 6526
   },
   {
-    "part": "bem ",
-    "start": 9513,
-    "end": 9749
+    "part": "as ",
+    "start": 6828,
+    "end": 6894
   },
   {
-    "part": "acompanhado.",
-    "start": 9763,
-    "end": 10513
+    "part": "escolhas ",
+    "start": 6907,
+    "end": 7500
+  },
+  {
+    "part": "técnicas ",
+    "start": 7513,
+    "end": 8026
+  },
+  {
+    "part": "e ",
+    "start": 8039,
+    "end": 8157
+  },
+  {
+    "part": "o ",
+    "start": 8171,
+    "end": 8223
+  },
+  {
+    "part": "funcionamento, ",
+    "start": 8236,
+    "end": 9092
+  },
+  {
+    "part": "passo ",
+    "start": 9315,
+    "end": 9657
+  },
+  {
+    "part": "a ",
+    "start": 9671,
+    "end": 9723
+  },
+  {
+    "part": "passo.",
+    "start": 9736,
+    "end": 10197
   }
 ]

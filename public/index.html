@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sistema de Horas Extras e Sobreaviso CLT</title>
+<meta name="theme-color" content="#10233f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===================== TELA DE AUTENTICAÇÃO ===================== -->
+<div id="view-auth" class="view">
+  <div class="auth-layout">
+    <aside class="auth-brand-panel">
+      <a class="brand-lockup" href="#" aria-label="Controle de Horas - início">
+        <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M20 5.5 33 13v14L20 34.5 7 27V13L20 5.5Z"/><path d="M20 12v9l6 3.5"/><circle cx="20" cy="21" r="10"/></svg></span>
+        <span><strong>Controle de Horas</strong><small>Gestão de Horas Extras e Sobreaviso</small></span>
+      </a>
+      <div class="brand-copy">
+        <span class="eyebrow"><i></i> GESTÃO DE JORNADA</span>
+        <h2>O tempo da sua equipe,<br><em>bem acompanhado.</em></h2>
+        <p>Organize horas extras e sobreavisos em um só lugar, com clareza em cada etapa.</p>
+      </div>
+      <div class="time-visual" aria-hidden="true">
+        <div class="visual-orbit orbit-one"></div><div class="visual-orbit orbit-two"></div>
+        <div class="visual-clock"><span class="clock-center"></span><span class="clock-hand hand-hour"></span><span class="clock-hand hand-minute"></span><span class="clock-tick tick-a"></span><span class="clock-tick tick-b"></span><span class="clock-tick tick-c"></span><span class="clock-tick tick-d"></span></div>
+        <div class="visual-note"><span class="note-icon">↗</span><span><b>Visão em tempo real</b><small>Registros organizados e seguros</small></span></div>
+        <div class="visual-pill">⏱ &nbsp; Jornada sob controle</div>
+      </div>
+      <div class="brand-footer"><span>PLATAFORMA DE GESTÃO</span><span>© 2025 Controle de Horas</span></div>
+    </aside>
+    <main class="auth-main">
+      <div class="auth-mobile-brand brand-lockup"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M20 5.5 33 13v14L20 34.5 7 27V13L20 5.5Z"/><path d="M20 12v9l6 3.5"/><circle cx="20" cy="21" r="10"/></svg></span><span><strong>Controle de Horas</strong><small>Gestão de Horas Extras e Sobreaviso</small></span></div>
+      <div class="auth-card">
+        <div class="auth-heading"><span class="eyebrow auth-eyebrow">ÁREA SEGURA</span><h1>Acesse sua conta</h1><p class="subtitulo">Entre para acompanhar sua jornada.</p></div>
+
+    <div class="abas-auth">
+      <button type="button" class="aba-auth ativa" data-aba="login">Entrar</button>
+      <button type="button" class="aba-auth" data-aba="cadastro">Criar conta</button>
+    </div>
+
+    <form id="form-login" class="formulario">
+      <label>E-mail corporativo
+        <input type="email" id="login-email" required autocomplete="username" placeholder="nome@empresa.com">
+      </label>
+      <label>Senha <button type="button" class="password-toggle" aria-label="Mostrar senha" data-password-target="login-senha">Mostrar</button>
+        <input type="password" id="login-senha" required autocomplete="current-password" placeholder="Digite sua senha">
+      </label>
+      <div class="auth-form-meta"><span>Conexão protegida</span><a href="#" id="link-recuperar-senha">Esqueceu a senha?</a></div>
+      <p id="login-erro" class="mensagem-erro"></p>
+      <button type="submit" class="botao botao-primario">Acessar minha conta</button>
+    </form>
+
+    <form id="form-cadastro" class="formulario escondido">
+      <label>Nome completo
+        <input type="text" id="cad-nome" required>
+      </label>
+      <label>E-mail
+        <input type="email" id="cad-email" required>
+      </label>
+      <label>Senha (mínimo 6 caracteres)
+        <input type="password" id="cad-senha" required minlength="6">
+      </label>
+      <label>Perfil
+        <select id="cad-perfil">
+          <option value="COLABORADOR">Colaborador</option>
+          <option value="SUPERVISOR">Supervisor</option>
+        </select>
+      </label>
+      <label>Cargo
+        <input type="text" id="cad-cargo">
+      </label>
+      <label id="campo-cad-salario">Salário base (R$)
+        <input type="number" id="cad-salario" min="0" step="0.01">
+      </label>
+      <p id="cadastro-erro" class="mensagem-erro"></p>
+      <button type="submit" class="botao botao-primario">Criar conta</button>
+    </form>
+
+    <div class="demo-caixa escondido" id="demo-caixa">
+      <p><strong>Acesso rápido para demonstração</strong> (senha: 123456)</p>
+      <div class="demo-botoes">
+        <button type="button" class="botao botao-secundario" data-demo-email="joao@empresa.com">João (Colaborador)</button>
+        <button type="button" class="botao botao-secundario" data-demo-email="maria@empresa.com">Maria (Colaboradora)</button>
+        <button type="button" class="botao botao-secundario" data-demo-email="supervisor@empresa.com">Carlos (Supervisor)</button>
+      </div>
+    </div>
+      <p class="auth-legal">Ao continuar, você acessa um ambiente protegido para gestão de jornada.</p>
+      </div>
+      <div class="auth-side-footer">Precisa de ajuda? <span>Fale com o administrador da sua empresa.</span></div>
+    </main>
+  </div>
+</div>
+
+<!-- ===================== TELA DO COLABORADOR ===================== -->
+<div id="view-colaborador" class="view escondido">
+  <header class="topo">
+    <div>
+      <h2 id="col-nome"></h2>
+      <span id="col-cargo" class="subtitulo"></span>
+    </div>
+    <div class="topo-direita">
+      <span id="relogio" class="relogio"></span>
+      <button type="button" class="botao botao-contorno" id="btn-sair-colaborador">Sair</button>
+    </div>
+  </header>
+
+  <nav class="abas-conteudo">
+    <button type="button" class="aba-conteudo ativa" data-painel="painel-resumo">Resumo financeiro</button>
+    <button type="button" class="aba-conteudo" data-painel="painel-lancar">Lançar horas</button>
+    <button type="button" class="aba-conteudo" data-painel="painel-historico">Histórico</button>
+    <button type="button" class="aba-conteudo" data-painel="painel-perfil">Meu perfil</button>
+  </nav>
+
+  <section id="painel-resumo" class="painel">
+    <h3>Resumo financeiro estimado <span id="resumo-mes-label" class="subtitulo"></span></h3>
+    <label class="filtro-mes">Mês de referência
+      <input type="month" id="resumo-mes-ano">
+    </label>
+    <div class="grade-cartoes" id="cartoes-resumo"></div>
+    <p class="aviso-estimativa">
+      ⚠️ Valores estimados para fins de acompanhamento. O cálculo de DSR considera apenas domingos
+      (não inclui feriados) e não substitui o fechamento oficial da folha de pagamento.
+    </p>
+  </section>
+
+  <section id="painel-lancar" class="painel escondido">
+    <h3>Lançar hora extra ou sobreaviso</h3>
+    <form id="form-registro" class="formulario">
+      <label>Tipo de lançamento
+        <select id="reg-tipo">
+          <option value="HORA_EXTRA">Hora extra</option>
+          <option value="SOBREAVISO">Sobreaviso</option>
+        </select>
+      </label>
+
+      <div class="duas-colunas">
+        <label>Data de início
+          <input type="date" id="reg-data" required>
+        </label>
+        <label id="campo-reg-data-fim">Data de término
+          <input type="date" id="reg-data-fim">
+        </label>
+      </div>
+
+      <div class="duas-colunas">
+        <label>Horário de início
+          <input type="time" id="reg-hora-inicio" required>
+        </label>
+        <label>Horário de término
+          <input type="time" id="reg-hora-fim" required>
+        </label>
+      </div>
+
+      <label id="campo-reg-porcentagem">Adicional
+        <select id="reg-porcentagem">
+          <option value="50">50% (dias úteis/sábados)</option>
+          <option value="100">100% (domingos e feriados)</option>
+        </select>
+      </label>
+
+      <label>Justificativa
+        <textarea id="reg-justificativa" rows="3" required
+          placeholder="Explique o motivo do lançamento (chamado, incidente, escala combinada etc.)"></textarea>
+      </label>
+
+      <p id="aviso-compensacao" class="aviso-compensacao escondido"></p>
+      <p id="reg-erro" class="mensagem-erro"></p>
+
+      <button type="submit" class="botao botao-primario">Salvar lançamento</button>
+    </form>
+  </section>
+
+  <section id="painel-historico" class="painel escondido">
+    <h3>Meu histórico</h3>
+    <div class="filtros">
+      <label>Tipo
+        <select id="filtro-hist-tipo">
+          <option value="">Todos</option>
+          <option value="HORA_EXTRA">Hora extra</option>
+          <option value="SOBREAVISO">Sobreaviso</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="filtro-hist-status">
+          <option value="">Todos</option>
+          <option value="PENDENTE">Pendente</option>
+          <option value="APROVADO">Aprovado</option>
+          <option value="REPROVADO">Reprovado</option>
+        </select>
+      </label>
+    </div>
+    <div class="tabela-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Tipo</th><th>Data</th><th>Horário</th><th>Duração</th>
+            <th>Justificativa</th><th>Status</th><th>Parecer</th><th></th>
+          </tr>
+        </thead>
+        <tbody id="tabela-historico"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="painel-perfil" class="painel escondido">
+    <h3>Meu perfil</h3>
+    <form id="form-perfil" class="formulario">
+      <label>Cargo
+        <input type="text" id="perfil-cargo">
+      </label>
+      <label>Salário base (R$)
+        <input type="number" id="perfil-salario" min="0" step="0.01">
+      </label>
+      <label>Carga horária mensal (horas)
+        <input type="number" id="perfil-carga" min="1" step="1">
+      </label>
+      <p id="perfil-sucesso" class="mensagem-sucesso escondido">Perfil atualizado.</p>
+      <button type="submit" class="botao botao-primario">Salvar alterações</button>
+    </form>
+  </section>
+</div>
+
+<!-- ===================== TELA DO SUPERVISOR ===================== -->
+<div id="view-supervisor" class="view escondido">
+  <header class="topo">
+    <div>
+      <h2 id="sup-nome"></h2>
+      <span class="subtitulo">Painel do supervisor</span>
+    </div>
+    <button type="button" class="botao botao-contorno" id="btn-sair-supervisor">Sair</button>
+  </header>
+
+  <section class="painel">
+    <h3>Visão geral <span id="sup-mes-label" class="subtitulo"></span></h3>
+    <label class="filtro-mes">Mês de referência
+      <input type="month" id="sup-mes-ano">
+    </label>
+    <div class="grade-cartoes" id="cartoes-supervisor"></div>
+  </section>
+
+  <section class="painel">
+    <h3>Registros</h3>
+    <div class="filtros">
+      <label>Colaborador
+        <select id="filtro-sup-colaborador"><option value="">Todos</option></select>
+      </label>
+      <label>Tipo
+        <select id="filtro-sup-tipo">
+          <option value="">Todos</option>
+          <option value="HORA_EXTRA">Hora extra</option>
+          <option value="SOBREAVISO">Sobreaviso</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="filtro-sup-status">
+          <option value="PENDENTE">Pendente</option>
+          <option value="APROVADO">Aprovado</option>
+          <option value="REPROVADO">Reprovado</option>
+          <option value="">Todos</option>
+        </select>
+      </label>
+      <button type="button" class="botao botao-secundario" id="btn-exportar-csv">Exportar CSV</button>
+    </div>
+    <div class="tabela-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Colaborador</th><th>Tipo</th><th>Data</th><th>Duração</th>
+            <th>Justificativa</th><th>Status</th><th>Ações</th>
+          </tr>
+        </thead>
+        <tbody id="tabela-supervisor"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="painel">
+    <h3>Consolidado por colaborador</h3>
+    <div class="tabela-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Colaborador</th><th>Cargo</th><th>Extra 50%</th><th>Extra 100%</th>
+            <th>Sobreaviso</th><th>Pendentes</th><th>Aprovados</th><th>Reprovados</th>
+          </tr>
+        </thead>
+        <tbody id="tabela-consolidado"></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<!-- ===================== MODAL DE AVALIAÇÃO (SUPERVISOR) ===================== -->
+<div id="modal-avaliacao" class="modal escondido">
+  <div class="modal-conteudo">
+    <h3 id="modal-titulo">Avaliar registro</h3>
+    <p id="modal-resumo-registro" class="subtitulo"></p>
+    <label>Parecer
+      <textarea id="modal-parecer" rows="3" placeholder="Escreva uma justificativa para a decisão."></textarea>
+    </label>
+    <p id="modal-erro" class="mensagem-erro"></p>
+    <div class="modal-botoes">
+      <button type="button" class="botao botao-contorno" id="modal-cancelar">Cancelar</button>
+      <button type="button" class="botao botao-perigo" id="modal-reprovar">Reprovar</button>
+      <button type="button" class="botao botao-primario" id="modal-aprovar">Aprovar</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

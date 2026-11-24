@@ -1,0 +1,27 @@
+{
+  "name": "sistema-horas-extras-sobreaviso",
+  "version": "2.0.0",
+  "description": "Sistema de Controle de Ponto, Horas Extras e Sobreaviso CLT - Fase 2 (versão funcional)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "studio": "remotion studio remotion/index.tsx",
+    "render:video": "remotion render remotion/index.tsx ControleDeHoras out/controle-de-horas.mp4 --codec h264",
+    "generate:voiceover": "node scripts/generate-voiceover.mjs"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "music-metadata": "^12.8.2",
+    "node-edge-tts": "^1.2.12",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "remotion": "^4.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "license": "UNLICENSED"
+}

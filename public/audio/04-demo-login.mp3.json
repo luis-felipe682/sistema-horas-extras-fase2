@@ -1,0 +1,107 @@
+[
+  {
+    "part": "Na ",
+    "start": 52,
+    "end": 236
+  },
+  {
+    "part": "entrada, ",
+    "start": 250,
+    "end": 763
+  },
+  {
+    "part": "o ",
+    "start": 1026,
+    "end": 1131
+  },
+  {
+    "part": "usuário ",
+    "start": 1144,
+    "end": 1578
+  },
+  {
+    "part": "informa ",
+    "start": 1592,
+    "end": 1986
+  },
+  {
+    "part": "e-mail ",
+    "start": 2000,
+    "end": 2394
+  },
+  {
+    "part": "e ",
+    "start": 2407,
+    "end": 2473
+  },
+  {
+    "part": "senha ",
+    "start": 2486,
+    "end": 2881
+  },
+  {
+    "part": "ou ",
+    "start": 2894,
+    "end": 3000
+  },
+  {
+    "part": "cria ",
+    "start": 3013,
+    "end": 3263
+  },
+  {
+    "part": "uma ",
+    "start": 3276,
+    "end": 3460
+  },
+  {
+    "part": "conta. ",
+    "start": 3473,
+    "end": 3907
+  },
+  {
+    "part": "O ",
+    "start": 4815,
+    "end": 4934
+  },
+  {
+    "part": "acesso ",
+    "start": 4947,
+    "end": 5421
+  },
+  {
+    "part": "inicia ",
+    "start": 5434,
+    "end": 5789
+  },
+  {
+    "part": "uma ",
+    "start": 5802,
+    "end": 5934
+  },
+  {
+    "part": "sessão ",
+    "start": 5947,
+    "end": 6328
+  },
+  {
+    "part": "autenticada ",
+    "start": 6342,
+    "end": 7078
+  },
+  {
+    "part": "com ",
+    "start": 7092,
+    "end": 7328
+  },
+  {
+    "part": "token ",
+    "start": 7342,
+    "end": 7750
+  },
+  {
+    "part": "assinado.",
+    "start": 7763,
+    "end": 8394
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "part": "Na ",
+    "start": 52,
+    "end": 236
+  },
+  {
+    "part": "base: ",
+    "start": 250,
+    "end": 736
+  },
+  {
+    "part": "interface ",
+    "start": 1000,
+    "end": 1684
+  },
+  {
+    "part": "web, ",
+    "start": 1697,
+    "end": 2105
+  },
+  {
+    "part": "API ",
+    "start": 2355,
+    "end": 2776
+  },
+  {
+    "part": "REST ",
+    "start": 2789,
+    "end": 3157
+  },
+  {
+    "part": "em ",
+    "start": 3171,
+    "end": 3223
+  },
+  {
+    "part": "Node",
+    "start": 3236,
+    "end": 3513
+  },
+  {
+    "part": ".",
+    "start": 3526,
+    "end": 3868
+  },
+  {
+    "part": "js ",
+    "start": 3881,
+    "end": 4815
+  },
+  {
+    "part": "e ",
+    "start": 4828,
+    "end": 4881
+  },
+  {
+    "part": "banco ",
+    "start": 4894,
+    "end": 5315
+  },
+  {
+    "part": "SQLite. ",
+    "start": 5328,
+    "end": 6144
+  },
+  {
+    "part": "Senhas ",
+    "start": 7052,
+    "end": 7539
+  },
+  {
+    "part": "protegidas ",
+    "start": 7552,
+    "end": 8236
+  },
+  {
+    "part": "por ",
+    "start": 8250,
+    "end": 8447
+  },
+  {
+    "part": "scrypt. ",
+    "start": 8460,
+    "end": 10105
+  },
+  {
+    "part": "Sessões ",
+    "start": 11013,
+    "end": 11631
+  },
+  {
+    "part": "com ",
+    "start": 11644,
+    "end": 11868
+  },
+  {
+    "part": "token ",
+    "start": 11881,
+    "end": 12263
+  },
+  {
+    "part": "assinado, ",
+    "start": 12276,
+    "end": 12894
+  },
+  {
+    "part": "equivalente ",
+    "start": 13118,
+    "end": 13789
+  },
+  {
+    "part": "ao ",
+    "start": 13802,
+    "end": 13868
+  },
+  {
+    "part": "formato ",
+    "start": 13881,
+    "end": 14447
+  },
+  {
+    "part": "JWT.",
+    "start": 14460,
+    "end": 15526
+  }
+]

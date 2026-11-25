@@ -1,0 +1,232 @@
+[
+  {
+    "part": "Na ",
+    "start": 52,
+    "end": 223
+  },
+  {
+    "part": "aba ",
+    "start": 236,
+    "end": 526
+  },
+  {
+    "part": "de ",
+    "start": 539,
+    "end": 631
+  },
+  {
+    "part": "lançamento, ",
+    "start": 644,
+    "end": 1381
+  },
+  {
+    "part": "escolho ",
+    "start": 1421,
+    "end": 1894
+  },
+  {
+    "part": "hora ",
+    "start": 1907,
+    "end": 2197
+  },
+  {
+    "part": "extra ",
+    "start": 2210,
+    "end": 2592
+  },
+  {
+    "part": "de ",
+    "start": 2605,
+    "end": 2710
+  },
+  {
+    "part": "cinquenta ",
+    "start": 2723,
+    "end": 3302
+  },
+  {
+    "part": "ou ",
+    "start": 3328,
+    "end": 3407
+  },
+  {
+    "part": "cem ",
+    "start": 3421,
+    "end": 3671
+  },
+  {
+    "part": "por ",
+    "start": 3684,
+    "end": 3842
+  },
+  {
+    "part": "cento, ",
+    "start": 3855,
+    "end": 4315
+  },
+  {
+    "part": "ou ",
+    "start": 4368,
+    "end": 4513
+  },
+  {
+    "part": "sobreaviso. ",
+    "start": 4526,
+    "end": 5368
+  },
+  {
+    "part": "Informo ",
+    "start": 5644,
+    "end": 6131
+  },
+  {
+    "part": "data, ",
+    "start": 6144,
+    "end": 6605
+  },
+  {
+    "part": "horário ",
+    "start": 6763,
+    "end": 7157
+  },
+  {
+    "part": "de ",
+    "start": 7171,
+    "end": 7263
+  },
+  {
+    "part": "início ",
+    "start": 7276,
+    "end": 7671
+  },
+  {
+    "part": "e ",
+    "start": 7684,
+    "end": 7736
+  },
+  {
+    "part": "fim ",
+    "start": 7750,
+    "end": 8052
+  },
+  {
+    "part": "e ",
+    "start": 8065,
+    "end": 8118
+  },
+  {
+    "part": "justificativa ",
+    "start": 8131,
+    "end": 8999
+  },
+  {
+    "part": "técnica. ",
+    "start": 9039,
+    "end": 9671
+  },
+  {
+    "part": "A ",
+    "start": 9947,
+    "end": 10039
+  },
+  {
+    "part": "API ",
+    "start": 10052,
+    "end": 10473
+  },
+  {
+    "part": "valida ",
+    "start": 10486,
+    "end": 10947
+  },
+  {
+    "part": "a ",
+    "start": 10960,
+    "end": 10986
+  },
+  {
+    "part": "requisição ",
+    "start": 11000,
+    "end": 11710
+  },
+  {
+    "part": "e ",
+    "start": 11750,
+    "end": 11802
+  },
+  {
+    "part": "grava ",
+    "start": 11815,
+    "end": 12302
+  },
+  {
+    "part": "o ",
+    "start": 12315,
+    "end": 12342
+  },
+  {
+    "part": "registro ",
+    "start": 12355,
+    "end": 12921
+  },
+  {
+    "part": "com ",
+    "start": 12934,
+    "end": 13078
+  },
+  {
+    "part": "status ",
+    "start": 13092,
+    "end": 13592
+  },
+  {
+    "part": "pendente ",
+    "start": 13605,
+    "end": 14105
+  },
+  {
+    "part": "no ",
+    "start": 14118,
+    "end": 14223
+  },
+  {
+    "part": "banco, ",
+    "start": 14236,
+    "end": 14671
+  },
+  {
+    "part": "pronto ",
+    "start": 14815,
+    "end": 15118
+  },
+  {
+    "part": "para ",
+    "start": 15131,
+    "end": 15302
+  },
+  {
+    "part": "análise, ",
+    "start": 15315,
+    "end": 15907
+  },
+  {
+    "part": "com ",
+    "start": 15947,
+    "end": 16105
+  },
+  {
+    "part": "os ",
+    "start": 16118,
+    "end": 16236
+  },
+  {
+    "part": "dados ",
+    "start": 16250,
+    "end": 16592
+  },
+  {
+    "part": "reunidos.",
+    "start": 16605,
+    "end": 17289
+  }
+]

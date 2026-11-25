@@ -1,0 +1,282 @@
+[
+  {
+    "part": "Aqui ",
+    "start": 52,
+    "end": 328
+  },
+  {
+    "part": "no ",
+    "start": 342,
+    "end": 460
+  },
+  {
+    "part": "banco ",
+    "start": 473,
+    "end": 802
+  },
+  {
+    "part": "de ",
+    "start": 815,
+    "end": 921
+  },
+  {
+    "part": "dados, ",
+    "start": 934,
+    "end": 1421
+  },
+  {
+    "part": "uso ",
+    "start": 1671,
+    "end": 1947
+  },
+  {
+    "part": "SQLite ",
+    "start": 1960,
+    "end": 2710
+  },
+  {
+    "part": "relacional ",
+    "start": 2723,
+    "end": 3447
+  },
+  {
+    "part": "em ",
+    "start": 3460,
+    "end": 3552
+  },
+  {
+    "part": "dados",
+    "start": 3565,
+    "end": 3986
+  },
+  {
+    "part": ".",
+    "start": 4000,
+    "end": 4315
+  },
+  {
+    "part": "sqlite. ",
+    "start": 4328,
+    "end": 4921
+  },
+  {
+    "part": "As ",
+    "start": 5197,
+    "end": 5342
+  },
+  {
+    "part": "tabelas ",
+    "start": 5355,
+    "end": 5868
+  },
+  {
+    "part": "relacionam ",
+    "start": 5881,
+    "end": 6565
+  },
+  {
+    "part": "usuários ",
+    "start": 6578,
+    "end": 7118
+  },
+  {
+    "part": "e ",
+    "start": 7131,
+    "end": 7249
+  },
+  {
+    "part": "lançamentos ",
+    "start": 7263,
+    "end": 7999
+  },
+  {
+    "part": "por ",
+    "start": 8013,
+    "end": 8171
+  },
+  {
+    "part": "chave ",
+    "start": 8184,
+    "end": 8539
+  },
+  {
+    "part": "estrangeira ",
+    "start": 8552,
+    "end": 9263
+  },
+  {
+    "part": "e ",
+    "start": 9289,
+    "end": 9381
+  },
+  {
+    "part": "guardam ",
+    "start": 9394,
+    "end": 9868
+  },
+  {
+    "part": "período, ",
+    "start": 9881,
+    "end": 10381
+  },
+  {
+    "part": "horas, ",
+    "start": 10539,
+    "end": 10960
+  },
+  {
+    "part": "justificativa, ",
+    "start": 11065,
+    "end": 12013
+  },
+  {
+    "part": "status ",
+    "start": 12065,
+    "end": 12513
+  },
+  {
+    "part": "e ",
+    "start": 12526,
+    "end": 12631
+  },
+  {
+    "part": "parecer. ",
+    "start": 12657,
+    "end": 13236
+  },
+  {
+    "part": "Em ",
+    "start": 13513,
+    "end": 13710
+  },
+  {
+    "part": "auth",
+    "start": 13723,
+    "end": 13973
+  },
+  {
+    "part": ".",
+    "start": 13986,
+    "end": 14302
+  },
+  {
+    "part": "js, ",
+    "start": 14315,
+    "end": 15118
+  },
+  {
+    "part": "implementei ",
+    "start": 15236,
+    "end": 15881
+  },
+  {
+    "part": "hash ",
+    "start": 15894,
+    "end": 16197
+  },
+  {
+    "part": "de ",
+    "start": 16210,
+    "end": 16315
+  },
+  {
+    "part": "senha ",
+    "start": 16328,
+    "end": 16710
+  },
+  {
+    "part": "com ",
+    "start": 16723,
+    "end": 16894
+  },
+  {
+    "part": "scrypt ",
+    "start": 16907,
+    "end": 18500
+  },
+  {
+    "part": "e ",
+    "start": 18513,
+    "end": 18578
+  },
+  {
+    "part": "JWT ",
+    "start": 18592,
+    "end": 19473
+  },
+  {
+    "part": "assinado ",
+    "start": 19486,
+    "end": 20052
+  },
+  {
+    "part": "com ",
+    "start": 20065,
+    "end": 20210
+  },
+  {
+    "part": "HMAC-SHA256. ",
+    "start": 20223,
+    "end": 21986
+  },
+  {
+    "part": "Separei ",
+    "start": 22263,
+    "end": 22868
+  },
+  {
+    "part": "os ",
+    "start": 22881,
+    "end": 22986
+  },
+  {
+    "part": "perfis ",
+    "start": 23000,
+    "end": 23447
+  },
+  {
+    "part": "Colaborador ",
+    "start": 23460,
+    "end": 24223
+  },
+  {
+    "part": "e ",
+    "start": 24236,
+    "end": 24302
+  },
+  {
+    "part": "Supervisor; ",
+    "start": 24315,
+    "end": 25105
+  },
+  {
+    "part": "as ",
+    "start": 25368,
+    "end": 25486
+  },
+  {
+    "part": "permissões ",
+    "start": 25500,
+    "end": 26184
+  },
+  {
+    "part": "são ",
+    "start": 26197,
+    "end": 26381
+  },
+  {
+    "part": "verificadas ",
+    "start": 26394,
+    "end": 27131
+  },
+  {
+    "part": "pelo ",
+    "start": 27144,
+    "end": 27355
+  },
+  {
+    "part": "servidor.",
+    "start": 27368,
+    "end": 27999
+  }
+]

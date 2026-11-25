@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "studio": "remotion studio remotion/index.tsx",
-    "render:video": "remotion render remotion/index.tsx ControleDeHoras out/controle-de-horas.mp4 --codec h264",
+    "render:video": "remotion render remotion/index.tsx ControleDeHoras out/video.mp4 --codec h264",
     "generate:voiceover": "node scripts/generate-voiceover.mjs"
   },
   "devDependencies": {

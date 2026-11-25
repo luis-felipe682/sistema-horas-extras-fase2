@@ -1,0 +1,227 @@
+[
+  {
+    "part": "Para ",
+    "start": 52,
+    "end": 250
+  },
+  {
+    "part": "resolver ",
+    "start": 263,
+    "end": 723
+  },
+  {
+    "part": "isso, ",
+    "start": 736,
+    "end": 1105
+  },
+  {
+    "part": "eu ",
+    "start": 1315,
+    "end": 1407
+  },
+  {
+    "part": "projetei ",
+    "start": 1421,
+    "end": 1934
+  },
+  {
+    "part": "uma ",
+    "start": 1947,
+    "end": 2052
+  },
+  {
+    "part": "aplicação ",
+    "start": 2065,
+    "end": 2684
+  },
+  {
+    "part": "que ",
+    "start": 2697,
+    "end": 2802
+  },
+  {
+    "part": "centraliza ",
+    "start": 2815,
+    "end": 3526
+  },
+  {
+    "part": "o ",
+    "start": 3539,
+    "end": 3578
+  },
+  {
+    "part": "fluxo. ",
+    "start": 3592,
+    "end": 4184
+  },
+  {
+    "part": "No ",
+    "start": 4460,
+    "end": 4605
+  },
+  {
+    "part": "backend, ",
+    "start": 4618,
+    "end": 5105
+  },
+  {
+    "part": "construí ",
+    "start": 5157,
+    "end": 5697
+  },
+  {
+    "part": "uma ",
+    "start": 5710,
+    "end": 5868
+  },
+  {
+    "part": "API ",
+    "start": 5881,
+    "end": 6315
+  },
+  {
+    "part": "REST ",
+    "start": 6328,
+    "end": 6671
+  },
+  {
+    "part": "em ",
+    "start": 6684,
+    "end": 6736
+  },
+  {
+    "part": "Node",
+    "start": 6750,
+    "end": 7052
+  },
+  {
+    "part": ".",
+    "start": 7065,
+    "end": 7381
+  },
+  {
+    "part": "js ",
+    "start": 7394,
+    "end": 8026
+  },
+  {
+    "part": "puro, ",
+    "start": 8039,
+    "end": 8421
+  },
+  {
+    "part": "usando ",
+    "start": 8671,
+    "end": 9105
+  },
+  {
+    "part": "módulos ",
+    "start": 9118,
+    "end": 9592
+  },
+  {
+    "part": "nativos, ",
+    "start": 9605,
+    "end": 10236
+  },
+  {
+    "part": "sem ",
+    "start": 10302,
+    "end": 10513
+  },
+  {
+    "part": "framework ",
+    "start": 10526,
+    "end": 11210
+  },
+  {
+    "part": "pesado. ",
+    "start": 11223,
+    "end": 11815
+  },
+  {
+    "part": "Mantive ",
+    "start": 12092,
+    "end": 12592
+  },
+  {
+    "part": "a ",
+    "start": 12605,
+    "end": 12657
+  },
+  {
+    "part": "estrutura ",
+    "start": 12671,
+    "end": 13197
+  },
+  {
+    "part": "enxuta ",
+    "start": 13210,
+    "end": 13710
+  },
+  {
+    "part": "e ",
+    "start": 13723,
+    "end": 13776
+  },
+  {
+    "part": "fácil ",
+    "start": 13789,
+    "end": 14223
+  },
+  {
+    "part": "de ",
+    "start": 14236,
+    "end": 14328
+  },
+  {
+    "part": "manter, ",
+    "start": 14342,
+    "end": 14802
+  },
+  {
+    "part": "com ",
+    "start": 15013,
+    "end": 15184
+  },
+  {
+    "part": "regras ",
+    "start": 15197,
+    "end": 15592
+  },
+  {
+    "part": "de ",
+    "start": 15605,
+    "end": 15723
+  },
+  {
+    "part": "cálculo ",
+    "start": 15736,
+    "end": 16236
+  },
+  {
+    "part": "e ",
+    "start": 16250,
+    "end": 16315
+  },
+  {
+    "part": "validação ",
+    "start": 16328,
+    "end": 16973
+  },
+  {
+    "part": "executadas ",
+    "start": 16986,
+    "end": 17736
+  },
+  {
+    "part": "no ",
+    "start": 17750,
+    "end": 17855
+  },
+  {
+    "part": "servidor.",
+    "start": 17868,
+    "end": 18486
+  }
+]

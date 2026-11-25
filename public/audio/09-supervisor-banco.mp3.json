@@ -1,0 +1,327 @@
+[
+  {
+    "part": "Agora, ",
+    "start": 52,
+    "end": 526
+  },
+  {
+    "part": "como ",
+    "start": 565,
+    "end": 842
+  },
+  {
+    "part": "Supervisor, ",
+    "start": 855,
+    "end": 1605
+  },
+  {
+    "part": "consulto ",
+    "start": 1750,
+    "end": 2263
+  },
+  {
+    "part": "a ",
+    "start": 2276,
+    "end": 2342
+  },
+  {
+    "part": "fila ",
+    "start": 2355,
+    "end": 2657
+  },
+  {
+    "part": "de ",
+    "start": 2671,
+    "end": 2763
+  },
+  {
+    "part": "pedidos ",
+    "start": 2776,
+    "end": 3302
+  },
+  {
+    "part": "pendentes ",
+    "start": 3315,
+    "end": 3868
+  },
+  {
+    "part": "da ",
+    "start": 3881,
+    "end": 3999
+  },
+  {
+    "part": "equipe. ",
+    "start": 4013,
+    "end": 4526
+  },
+  {
+    "part": "Eu ",
+    "start": 4802,
+    "end": 4921
+  },
+  {
+    "part": "confiro ",
+    "start": 4934,
+    "end": 5368
+  },
+  {
+    "part": "a ",
+    "start": 5381,
+    "end": 5434
+  },
+  {
+    "part": "justificativa ",
+    "start": 5447,
+    "end": 6381
+  },
+  {
+    "part": "e ",
+    "start": 6394,
+    "end": 6473
+  },
+  {
+    "part": "aprovo ",
+    "start": 6486,
+    "end": 7052
+  },
+  {
+    "part": "ou ",
+    "start": 7092,
+    "end": 7210
+  },
+  {
+    "part": "reprovo ",
+    "start": 7223,
+    "end": 7723
+  },
+  {
+    "part": "com ",
+    "start": 7736,
+    "end": 7868
+  },
+  {
+    "part": "um ",
+    "start": 7881,
+    "end": 7947
+  },
+  {
+    "part": "parecer. ",
+    "start": 7960,
+    "end": 8539
+  },
+  {
+    "part": "Por ",
+    "start": 8815,
+    "end": 8973
+  },
+  {
+    "part": "privacidade, ",
+    "start": 8986,
+    "end": 9881
+  },
+  {
+    "part": "o ",
+    "start": 9973,
+    "end": 10026
+  },
+  {
+    "part": "gestor ",
+    "start": 10039,
+    "end": 10486
+  },
+  {
+    "part": "vê ",
+    "start": 10500,
+    "end": 10671
+  },
+  {
+    "part": "os ",
+    "start": 10684,
+    "end": 10802
+  },
+  {
+    "part": "dados ",
+    "start": 10815,
+    "end": 11118
+  },
+  {
+    "part": "operacionais ",
+    "start": 11131,
+    "end": 11921
+  },
+  {
+    "part": "necessários, ",
+    "start": 11934,
+    "end": 12749
+  },
+  {
+    "part": "mas ",
+    "start": 12947,
+    "end": 13131
+  },
+  {
+    "part": "não ",
+    "start": 13144,
+    "end": 13302
+  },
+  {
+    "part": "o ",
+    "start": 13315,
+    "end": 13355
+  },
+  {
+    "part": "salário ",
+    "start": 13368,
+    "end": 13815
+  },
+  {
+    "part": "base ",
+    "start": 13828,
+    "end": 14236
+  },
+  {
+    "part": "nem ",
+    "start": 14250,
+    "end": 14434
+  },
+  {
+    "part": "os ",
+    "start": 14447,
+    "end": 14539
+  },
+  {
+    "part": "valores ",
+    "start": 14552,
+    "end": 14934
+  },
+  {
+    "part": "individuais. ",
+    "start": 14947,
+    "end": 15868
+  },
+  {
+    "part": "A ",
+    "start": 16144,
+    "end": 16236
+  },
+  {
+    "part": "decisão ",
+    "start": 16250,
+    "end": 16776
+  },
+  {
+    "part": "atualiza ",
+    "start": 16789,
+    "end": 17460
+  },
+  {
+    "part": "o ",
+    "start": 17473,
+    "end": 17526
+  },
+  {
+    "part": "status ",
+    "start": 17539,
+    "end": 18052
+  },
+  {
+    "part": "no ",
+    "start": 18065,
+    "end": 18184
+  },
+  {
+    "part": "banco ",
+    "start": 18197,
+    "end": 18565
+  },
+  {
+    "part": "relacional ",
+    "start": 18578,
+    "end": 19236
+  },
+  {
+    "part": "dados",
+    "start": 19250,
+    "end": 19671
+  },
+  {
+    "part": ".",
+    "start": 19684,
+    "end": 19999
+  },
+  {
+    "part": "sqlite. ",
+    "start": 20013,
+    "end": 20605
+  },
+  {
+    "part": "Após ",
+    "start": 20881,
+    "end": 21197
+  },
+  {
+    "part": "atualizar ",
+    "start": 21210,
+    "end": 21868
+  },
+  {
+    "part": "o ",
+    "start": 21881,
+    "end": 21934
+  },
+  {
+    "part": "histórico, ",
+    "start": 21947,
+    "end": 22592
+  },
+  {
+    "part": "o ",
+    "start": 22671,
+    "end": 22723
+  },
+  {
+    "part": "colaborador ",
+    "start": 22736,
+    "end": 23460
+  },
+  {
+    "part": "consulta ",
+    "start": 23473,
+    "end": 24039
+  },
+  {
+    "part": "o ",
+    "start": 24052,
+    "end": 24078
+  },
+  {
+    "part": "resultado, ",
+    "start": 24092,
+    "end": 24789
+  },
+  {
+    "part": "sem ",
+    "start": 25000,
+    "end": 25197
+  },
+  {
+    "part": "expor ",
+    "start": 25210,
+    "end": 25565
+  },
+  {
+    "part": "dados ",
+    "start": 25578,
+    "end": 25973
+  },
+  {
+    "part": "financeiros ",
+    "start": 25986,
+    "end": 26592
+  },
+  {
+    "part": "pessoais.",
+    "start": 26605,
+    "end": 27328
+  }
+]

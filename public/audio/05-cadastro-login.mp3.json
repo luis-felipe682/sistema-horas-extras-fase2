@@ -1,0 +1,192 @@
+[
+  {
+    "part": "Na ",
+    "start": 52,
+    "end": 236
+  },
+  {
+    "part": "tela ",
+    "start": 250,
+    "end": 513
+  },
+  {
+    "part": "inicial, ",
+    "start": 526,
+    "end": 1105
+  },
+  {
+    "part": "a ",
+    "start": 1157,
+    "end": 1223
+  },
+  {
+    "part": "pessoa ",
+    "start": 1236,
+    "end": 1605
+  },
+  {
+    "part": "cria ",
+    "start": 1618,
+    "end": 1855
+  },
+  {
+    "part": "uma ",
+    "start": 1868,
+    "end": 2065
+  },
+  {
+    "part": "conta ",
+    "start": 2105,
+    "end": 2513
+  },
+  {
+    "part": "e ",
+    "start": 2526,
+    "end": 2578
+  },
+  {
+    "part": "escolhe ",
+    "start": 2592,
+    "end": 3039
+  },
+  {
+    "part": "o ",
+    "start": 3052,
+    "end": 3092
+  },
+  {
+    "part": "perfil ",
+    "start": 3105,
+    "end": 3473
+  },
+  {
+    "part": "de ",
+    "start": 3486,
+    "end": 3565
+  },
+  {
+    "part": "acesso, ",
+    "start": 3578,
+    "end": 4144
+  },
+  {
+    "part": "ou ",
+    "start": 4315,
+    "end": 4499
+  },
+  {
+    "part": "entra ",
+    "start": 4513,
+    "end": 4763
+  },
+  {
+    "part": "com ",
+    "start": 4776,
+    "end": 4947
+  },
+  {
+    "part": "suas ",
+    "start": 4960,
+    "end": 5223
+  },
+  {
+    "part": "credenciais. ",
+    "start": 5236,
+    "end": 6171
+  },
+  {
+    "part": "O ",
+    "start": 6447,
+    "end": 6526
+  },
+  {
+    "part": "servidor ",
+    "start": 6539,
+    "end": 7105
+  },
+  {
+    "part": "confere ",
+    "start": 7131,
+    "end": 7565
+  },
+  {
+    "part": "o ",
+    "start": 7578,
+    "end": 7644
+  },
+  {
+    "part": "hash ",
+    "start": 7657,
+    "end": 7934
+  },
+  {
+    "part": "da ",
+    "start": 7947,
+    "end": 8078
+  },
+  {
+    "part": "senha ",
+    "start": 8092,
+    "end": 8565
+  },
+  {
+    "part": "e ",
+    "start": 8592,
+    "end": 8684
+  },
+  {
+    "part": "inicia ",
+    "start": 8697,
+    "end": 9118
+  },
+  {
+    "part": "uma ",
+    "start": 9131,
+    "end": 9276
+  },
+  {
+    "part": "sessão ",
+    "start": 9289,
+    "end": 9723
+  },
+  {
+    "part": "com ",
+    "start": 9736,
+    "end": 9947
+  },
+  {
+    "part": "token ",
+    "start": 9973,
+    "end": 10328
+  },
+  {
+    "part": "assinado. ",
+    "start": 10342,
+    "end": 10973
+  },
+  {
+    "part": "Vou ",
+    "start": 11250,
+    "end": 11447
+  },
+  {
+    "part": "começar ",
+    "start": 11460,
+    "end": 11986
+  },
+  {
+    "part": "pelo ",
+    "start": 12000,
+    "end": 12223
+  },
+  {
+    "part": "perfil ",
+    "start": 12236,
+    "end": 12644
+  },
+  {
+    "part": "Colaborador.",
+    "start": 12657,
+    "end": 13460
+  }
+]

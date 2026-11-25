@@ -1,117 +1,157 @@
 [
   {
-    "part": "Como ",
+    "part": "Do ",
     "start": 52,
-    "end": 342
+    "end": 210
   },
   {
-    "part": "supervisor, ",
-    "start": 355,
-    "end": 1065
+    "part": "outro ",
+    "start": 223,
+    "end": 565
   },
   {
-    "part": "eu ",
-    "start": 1315,
-    "end": 1473
+    "part": "lado, ",
+    "start": 578,
+    "end": 999
   },
   {
-    "part": "analiso ",
-    "start": 1486,
-    "end": 1986
+    "part": "o ",
+    "start": 1118,
+    "end": 1184
+  },
+  {
+    "part": "supervisor ",
+    "start": 1197,
+    "end": 1881
+  },
+  {
+    "part": "enxerga ",
+    "start": 1894,
+    "end": 2421
+  },
+  {
+    "part": "as ",
+    "start": 2434,
+    "end": 2513
+  },
+  {
+    "part": "solicitações ",
+    "start": 2526,
+    "end": 3394
+  },
+  {
+    "part": "de ",
+    "start": 3407,
+    "end": 3539
+  },
+  {
+    "part": "toda ",
+    "start": 3565,
+    "end": 3842
   },
   {
     "part": "a ",
-    "start": 2000,
-    "end": 2052
+    "start": 3855,
+    "end": 3894
+  },
+  {
+    "part": "equipe, ",
+    "start": 3907,
+    "end": 4394
+  },
+  {
+    "part": "lê ",
+    "start": 4552,
+    "end": 4750
+  },
+  {
+    "part": "a ",
+    "start": 4763,
+    "end": 4842
   },
   {
     "part": "justificativa, ",
-    "start": 2065,
-    "end": 2934
-  },
-  {
-    "part": "registro ",
-    "start": 3236,
-    "end": 3789
-  },
-  {
-    "part": "meu ",
-    "start": 3802,
-    "end": 3947
-  },
-  {
-    "part": "parecer ",
-    "start": 3960,
-    "end": 4447
+    "start": 4855,
+    "end": 5828
   },
   {
     "part": "e ",
-    "start": 4460,
-    "end": 4513
+    "start": 5973,
+    "end": 6065
   },
   {
-    "part": "aprovo ",
-    "start": 4526,
-    "end": 5026
+    "part": "aprova ",
+    "start": 6078,
+    "end": 6644
   },
   {
     "part": "ou ",
-    "start": 5039,
-    "end": 5118
+    "start": 6723,
+    "end": 6828
   },
   {
-    "part": "reprovo. ",
-    "start": 5131,
-    "end": 5697
+    "part": "reprova ",
+    "start": 6842,
+    "end": 7368
   },
   {
-    "part": "A ",
-    "start": 6605,
-    "end": 6723
+    "part": "com ",
+    "start": 7381,
+    "end": 7526
   },
   {
-    "part": "visão ",
-    "start": 6736,
-    "end": 7131
+    "part": "um ",
+    "start": 7539,
+    "end": 7605
   },
   {
-    "part": "mostra ",
-    "start": 7144,
-    "end": 7578
-  },
-  {
-    "part": "totais ",
-    "start": 7592,
-    "end": 8039
-  },
-  {
-    "part": "por ",
-    "start": 8052,
-    "end": 8210
-  },
-  {
-    "part": "colaborador, ",
-    "start": 8223,
-    "end": 9013
+    "part": "parecer — ",
+    "start": 7618,
+    "end": 8157
   },
   {
     "part": "sem ",
-    "start": 9407,
-    "end": 9592
+    "start": 8539,
+    "end": 8723
   },
   {
-    "part": "expor ",
-    "start": 9605,
-    "end": 9960
+    "part": "nunca ",
+    "start": 8736,
+    "end": 9052
   },
   {
-    "part": "salários ",
-    "start": 9973,
-    "end": 10447
+    "part": "ver ",
+    "start": 9065,
+    "end": 9236
   },
   {
-    "part": "individuais.",
-    "start": 10460,
-    "end": 11473
+    "part": "o ",
+    "start": 9250,
+    "end": 9289
+  },
+  {
+    "part": "valor ",
+    "start": 9302,
+    "end": 9671
+  },
+  {
+    "part": "do ",
+    "start": 9684,
+    "end": 9802
+  },
+  {
+    "part": "salário ",
+    "start": 9815,
+    "end": 10302
+  },
+  {
+    "part": "de ",
+    "start": 10315,
+    "end": 10421
+  },
+  {
+    "part": "ninguém.",
+    "start": 10434,
+    "end": 10881
   }
 ]

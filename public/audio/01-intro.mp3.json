@@ -1,122 +1,192 @@
 [
   {
-    "part": "Eu ",
+    "part": "Toda ",
     "start": 52,
-    "end": 236
+    "end": 289
   },
   {
-    "part": "desenvolvi ",
-    "start": 250,
-    "end": 868
+    "part": "empresa ",
+    "start": 302,
+    "end": 789
   },
   {
-    "part": "este ",
-    "start": 881,
-    "end": 1092
+    "part": "que ",
+    "start": 802,
+    "end": 907
   },
   {
-    "part": "projeto ",
-    "start": 1105,
-    "end": 1631
+    "part": "lida ",
+    "start": 921,
+    "end": 1236
   },
   {
-    "part": "para ",
-    "start": 1644,
-    "end": 1802
+    "part": "com ",
+    "start": 1250,
+    "end": 1407
   },
   {
-    "part": "acompanhar ",
-    "start": 1815,
-    "end": 2342
+    "part": "plantão ",
+    "start": 1421,
+    "end": 1921
   },
   {
-    "part": "horas ",
-    "start": 2355,
-    "end": 2605
+    "part": "ou ",
+    "start": 1960,
+    "end": 2118
   },
   {
-    "part": "extras ",
-    "start": 2618,
-    "end": 2999
+    "part": "hora ",
+    "start": 2131,
+    "end": 2421
   },
   {
-    "part": "e ",
-    "start": 3013,
-    "end": 3131
+    "part": "extra ",
+    "start": 2434,
+    "end": 2789
   },
   {
-    "part": "sobreaviso. ",
-    "start": 3144,
-    "end": 3881
+    "part": "conhece ",
+    "start": 2802,
+    "end": 3263
   },
   {
-    "part": "Agora ",
-    "start": 4789,
-    "end": 5223
+    "part": "esse ",
+    "start": 3276,
+    "end": 3447
   },
   {
-    "part": "vou ",
-    "start": 5236,
-    "end": 5368
+    "part": "problema: ",
+    "start": 3460,
+    "end": 4026
   },
   {
-    "part": "mostrar ",
-    "start": 5381,
-    "end": 5763
+    "part": "ninguém ",
+    "start": 4328,
+    "end": 4657
   },
   {
-    "part": "a ",
-    "start": 5776,
-    "end": 5815
+    "part": "sabe ",
+    "start": 4671,
+    "end": 4986
   },
   {
-    "part": "motivação, ",
-    "start": 5828,
-    "end": 6526
+    "part": "ao ",
+    "start": 5000,
+    "end": 5092
   },
   {
-    "part": "as ",
-    "start": 6828,
-    "end": 6894
+    "part": "certo ",
+    "start": 5105,
+    "end": 5565
   },
   {
-    "part": "escolhas ",
-    "start": 6907,
-    "end": 7500
+    "part": "quanto ",
+    "start": 5578,
+    "end": 5894
   },
   {
-    "part": "técnicas ",
-    "start": 7513,
-    "end": 8026
+    "part": "cada ",
+    "start": 5907,
+    "end": 6184
   },
   {
-    "part": "e ",
-    "start": 8039,
-    "end": 8157
+    "part": "pessoa ",
+    "start": 6197,
+    "end": 6565
   },
   {
-    "part": "o ",
-    "start": 8171,
-    "end": 8223
+    "part": "trabalhou, ",
+    "start": 6578,
+    "end": 7131
   },
   {
-    "part": "funcionamento, ",
-    "start": 8236,
-    "end": 9092
+    "part": "nem ",
+    "start": 7407,
+    "end": 7552
   },
   {
-    "part": "passo ",
-    "start": 9315,
-    "end": 9657
+    "part": "quanto ",
+    "start": 7565,
+    "end": 7894
   },
   {
-    "part": "a ",
-    "start": 9671,
-    "end": 9723
+    "part": "isso ",
+    "start": 7907,
+    "end": 8131
   },
   {
-    "part": "passo.",
-    "start": 9736,
-    "end": 10197
+    "part": "vai ",
+    "start": 8144,
+    "end": 8289
+  },
+  {
+    "part": "custar ",
+    "start": 8302,
+    "end": 8697
+  },
+  {
+    "part": "no ",
+    "start": 8710,
+    "end": 8828
+  },
+  {
+    "part": "fim ",
+    "start": 8842,
+    "end": 9026
+  },
+  {
+    "part": "do ",
+    "start": 9039,
+    "end": 9157
+  },
+  {
+    "part": "mês. ",
+    "start": 9171,
+    "end": 9578
+  },
+  {
+    "part": "O ",
+    "start": 9855,
+    "end": 9947
+  },
+  {
+    "part": "Controle ",
+    "start": 9960,
+    "end": 10473
+  },
+  {
+    "part": "de ",
+    "start": 10486,
+    "end": 10618
+  },
+  {
+    "part": "Horas ",
+    "start": 10631,
+    "end": 10960
+  },
+  {
+    "part": "nasceu ",
+    "start": 10973,
+    "end": 11421
+  },
+  {
+    "part": "pra ",
+    "start": 11434,
+    "end": 11592
+  },
+  {
+    "part": "resolver ",
+    "start": 11605,
+    "end": 12092
+  },
+  {
+    "part": "exatamente ",
+    "start": 12105,
+    "end": 12842
+  },
+  {
+    "part": "isso.",
+    "start": 12855,
+    "end": 13223
   }
 ]

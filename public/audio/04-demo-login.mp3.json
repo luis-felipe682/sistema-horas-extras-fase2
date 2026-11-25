@@ -1,122 +1,117 @@
 [
   {
-    "part": "Primeiro, ",
+    "part": "Na ",
     "start": 52,
-    "end": 592
+    "end": 223
+  },
+  {
+    "part": "prática, ",
+    "start": 236,
+    "end": 855
   },
   {
     "part": "o ",
-    "start": 907,
-    "end": 986
+    "start": 921,
+    "end": 999
   },
   {
-    "part": "usuário ",
-    "start": 1000,
-    "end": 1473
+    "part": "acesso ",
+    "start": 1013,
+    "end": 1434
   },
   {
-    "part": "cria ",
-    "start": 1486,
-    "end": 1710
+    "part": "é ",
+    "start": 1447,
+    "end": 1486
   },
   {
-    "part": "uma ",
-    "start": 1723,
-    "end": 1881
+    "part": "simples: ",
+    "start": 1500,
+    "end": 2078
   },
   {
-    "part": "conta ",
-    "start": 1894,
-    "end": 2302
+    "part": "o ",
+    "start": 2355,
+    "end": 2407
   },
   {
-    "part": "ou ",
-    "start": 2315,
-    "end": 2473
+    "part": "colaborador ",
+    "start": 2421,
+    "end": 3157
   },
   {
     "part": "entra ",
-    "start": 2486,
-    "end": 2749
+    "start": 3184,
+    "end": 3473
   },
   {
     "part": "com ",
-    "start": 2763,
-    "end": 2960
+    "start": 3486,
+    "end": 3671
   },
   {
     "part": "e-mail ",
-    "start": 2973,
-    "end": 3368
+    "start": 3684,
+    "end": 4065
   },
   {
     "part": "e ",
-    "start": 3381,
-    "end": 3447
+    "start": 4078,
+    "end": 4131
   },
   {
-    "part": "senha. ",
-    "start": 3460,
-    "end": 3894
+    "part": "senha, ",
+    "start": 4144,
+    "end": 4605
   },
   {
-    "part": "Depois ",
+    "part": "e ",
     "start": 4802,
-    "end": 5302
+    "end": 4881
   },
   {
-    "part": "da ",
-    "start": 5315,
-    "end": 5381
+    "part": "a ",
+    "start": 4894,
+    "end": 4960
   },
   {
-    "part": "autenticação, ",
-    "start": 5394,
-    "end": 6171
+    "part": "sessão ",
+    "start": 4973,
+    "end": 5394
   },
   {
-    "part": "o ",
-    "start": 6434,
-    "end": 6513
+    "part": "já ",
+    "start": 5407,
+    "end": 5552
   },
   {
-    "part": "perfil ",
-    "start": 6526,
-    "end": 6881
+    "part": "nasce ",
+    "start": 5565,
+    "end": 5921
   },
   {
-    "part": "define ",
-    "start": 6894,
-    "end": 7355
+    "part": "protegida ",
+    "start": 5934,
+    "end": 6631
   },
   {
-    "part": "quais ",
-    "start": 7368,
-    "end": 7605
+    "part": "por ",
+    "start": 6644,
+    "end": 6789
   },
   {
-    "part": "informações ",
-    "start": 7618,
-    "end": 8368
+    "part": "um ",
+    "start": 6802,
+    "end": 6921
   },
   {
-    "part": "cada ",
-    "start": 8381,
-    "end": 8644
+    "part": "token ",
+    "start": 6934,
+    "end": 7302
   },
   {
-    "part": "pessoa ",
-    "start": 8657,
-    "end": 9078
-  },
-  {
-    "part": "pode ",
-    "start": 9092,
-    "end": 9368
-  },
-  {
-    "part": "consultar.",
-    "start": 9381,
-    "end": 9973
+    "part": "assinado.",
+    "start": 7315,
+    "end": 7947
   }
 ]

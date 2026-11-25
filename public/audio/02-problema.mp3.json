@@ -1,192 +1,147 @@
 [
   {
-    "part": "Eu ",
+    "part": "Quando ",
     "start": 52,
-    "end": 236
+    "end": 276
   },
   {
-    "part": "comecei ",
-    "start": 250,
-    "end": 750
+    "part": "o ",
+    "start": 289,
+    "end": 315
   },
   {
-    "part": "por ",
-    "start": 763,
-    "end": 894
-  },
-  {
-    "part": "um ",
-    "start": 907,
-    "end": 986
-  },
-  {
-    "part": "problema ",
-    "start": 1000,
-    "end": 1447
-  },
-  {
-    "part": "concreto: ",
-    "start": 1460,
-    "end": 2078
-  },
-  {
-    "part": "planilhas ",
-    "start": 2328,
-    "end": 2842
-  },
-  {
-    "part": "manuais ",
-    "start": 2855,
-    "end": 3355
-  },
-  {
-    "part": "causam ",
-    "start": 3368,
-    "end": 3815
-  },
-  {
-    "part": "erros ",
-    "start": 3828,
-    "end": 4078
-  },
-  {
-    "part": "e ",
-    "start": 4092,
-    "end": 4197
-  },
-  {
-    "part": "retrabalho. ",
-    "start": 4210,
-    "end": 4842
-  },
-  {
-    "part": "Também ",
-    "start": 5750,
-    "end": 6171
-  },
-  {
-    "part": "falta ",
-    "start": 6184,
-    "end": 6565
-  },
-  {
-    "part": "transparência ",
-    "start": 6578,
-    "end": 7302
-  },
-  {
-    "part": "nos ",
-    "start": 7315,
-    "end": 7499
-  },
-  {
-    "part": "cálculos ",
-    "start": 7513,
-    "end": 7999
-  },
-  {
-    "part": "de ",
-    "start": 8013,
-    "end": 8131
-  },
-  {
-    "part": "hora ",
-    "start": 8144,
-    "end": 8421
-  },
-  {
-    "part": "extra ",
-    "start": 8434,
-    "end": 8815
-  },
-  {
-    "part": "de ",
-    "start": 8828,
-    "end": 8921
-  },
-  {
-    "part": "cinquenta ",
-    "start": 8934,
-    "end": 9447
-  },
-  {
-    "part": "e ",
-    "start": 9460,
-    "end": 9486
-  },
-  {
-    "part": "cem ",
-    "start": 9500,
-    "end": 9710
-  },
-  {
-    "part": "por ",
-    "start": 9723,
-    "end": 9881
-  },
-  {
-    "part": "cento ",
-    "start": 9894,
-    "end": 10250
-  },
-  {
-    "part": "e ",
-    "start": 10263,
-    "end": 10289
-  },
-  {
-    "part": "no ",
-    "start": 10302,
-    "end": 10407
-  },
-  {
-    "part": "sobreaviso. ",
-    "start": 10421,
-    "end": 11157
-  },
-  {
-    "part": "Sem ",
-    "start": 12065,
-    "end": 12394
-  },
-  {
-    "part": "justificativas ",
-    "start": 12407,
-    "end": 13250
-  },
-  {
-    "part": "e ",
-    "start": 13263,
-    "end": 13355
-  },
-  {
-    "part": "histórico, ",
-    "start": 13368,
-    "end": 13947
-  },
-  {
-    "part": "conferir ",
-    "start": 14263,
-    "end": 14802
-  },
-  {
-    "part": "os ",
-    "start": 14815,
-    "end": 14907
-  },
-  {
-    "part": "lançamentos ",
-    "start": 14921,
-    "end": 15605
+    "part": "controle ",
+    "start": 328,
+    "end": 868
   },
   {
     "part": "é ",
-    "start": 15618,
-    "end": 15749
+    "start": 881,
+    "end": 907
   },
   {
-    "part": "difícil.",
-    "start": 15763,
-    "end": 16368
+    "part": "feito ",
+    "start": 921,
+    "end": 1276
+  },
+  {
+    "part": "em ",
+    "start": 1289,
+    "end": 1368
+  },
+  {
+    "part": "planilha, ",
+    "start": 1381,
+    "end": 1947
+  },
+  {
+    "part": "a ",
+    "start": 2039,
+    "end": 2105
+  },
+  {
+    "part": "visão ",
+    "start": 2118,
+    "end": 2499
+  },
+  {
+    "part": "se ",
+    "start": 2513,
+    "end": 2671
+  },
+  {
+    "part": "perde ",
+    "start": 2684,
+    "end": 3052
+  },
+  {
+    "part": "rápido. ",
+    "start": 3065,
+    "end": 3592
+  },
+  {
+    "part": "Registros ",
+    "start": 3868,
+    "end": 4460
+  },
+  {
+    "part": "espalhados, ",
+    "start": 4473,
+    "end": 5302
+  },
+  {
+    "part": "divergência ",
+    "start": 5394,
+    "end": 6078
+  },
+  {
+    "part": "no ",
+    "start": 6092,
+    "end": 6184
+  },
+  {
+    "part": "fechamento, ",
+    "start": 6197,
+    "end": 6894
+  },
+  {
+    "part": "e ",
+    "start": 7078,
+    "end": 7184
+  },
+  {
+    "part": "hora ",
+    "start": 7197,
+    "end": 7473
+  },
+  {
+    "part": "extra ",
+    "start": 7486,
+    "end": 7999
+  },
+  {
+    "part": "ou ",
+    "start": 8065,
+    "end": 8184
+  },
+  {
+    "part": "plantão ",
+    "start": 8197,
+    "end": 8697
+  },
+  {
+    "part": "sem ",
+    "start": 8710,
+    "end": 8907
+  },
+  {
+    "part": "nenhum ",
+    "start": 8921,
+    "end": 9210
+  },
+  {
+    "part": "histórico ",
+    "start": 9223,
+    "end": 9736
+  },
+  {
+    "part": "confiável ",
+    "start": 9750,
+    "end": 10421
+  },
+  {
+    "part": "pra ",
+    "start": 10434,
+    "end": 10578
+  },
+  {
+    "part": "consultar ",
+    "start": 10592,
+    "end": 11131
+  },
+  {
+    "part": "depois.",
+    "start": 11144,
+    "end": 11776
   }
 ]

@@ -1,142 +1,152 @@
 [
   {
-    "part": "Eu ",
+    "part": "Pra ",
     "start": 52,
-    "end": 210
+    "end": 197
   },
   {
-    "part": "informo ",
-    "start": 223,
-    "end": 723
+    "part": "lançar ",
+    "start": 210,
+    "end": 671
   },
   {
-    "part": "tipo, ",
-    "start": 736,
-    "end": 1118
+    "part": "uma ",
+    "start": 684,
+    "end": 868
   },
   {
-    "part": "período, ",
-    "start": 1407,
-    "end": 1894
+    "part": "hora ",
+    "start": 881,
+    "end": 1184
   },
   {
-    "part": "horários ",
-    "start": 2105,
-    "end": 2539
-  },
-  {
-    "part": "e ",
-    "start": 2552,
-    "end": 2657
-  },
-  {
-    "part": "justificativa. ",
-    "start": 2671,
-    "end": 3671
-  },
-  {
-    "part": "A ",
-    "start": 4578,
-    "end": 4697
-  },
-  {
-    "part": "duração ",
-    "start": 4710,
-    "end": 5249
-  },
-  {
-    "part": "é ",
-    "start": 5263,
-    "end": 5328
-  },
-  {
-    "part": "calculada, ",
-    "start": 5342,
-    "end": 6039
-  },
-  {
-    "part": "mesmo ",
-    "start": 6276,
-    "end": 6684
-  },
-  {
-    "part": "na ",
-    "start": 6697,
-    "end": 6815
-  },
-  {
-    "part": "virada ",
-    "start": 6828,
-    "end": 7223
-  },
-  {
-    "part": "do ",
-    "start": 7236,
-    "end": 7355
-  },
-  {
-    "part": "dia. ",
-    "start": 7368,
-    "end": 7710
-  },
-  {
-    "part": "Escolho ",
-    "start": 8618,
-    "end": 9092
-  },
-  {
-    "part": "adicional ",
-    "start": 9105,
-    "end": 9618
-  },
-  {
-    "part": "de ",
-    "start": 9631,
-    "end": 9749
-  },
-  {
-    "part": "cinquenta ",
-    "start": 9763,
-    "end": 10315
+    "part": "extra ",
+    "start": 1197,
+    "end": 1684
   },
   {
     "part": "ou ",
-    "start": 10328,
-    "end": 10407
+    "start": 1723,
+    "end": 1789
   },
   {
-    "part": "cem ",
-    "start": 10421,
-    "end": 10684
+    "part": "um ",
+    "start": 1802,
+    "end": 1881
   },
   {
-    "part": "por ",
-    "start": 10697,
-    "end": 10868
+    "part": "sobreaviso, ",
+    "start": 1894,
+    "end": 2684
   },
   {
-    "part": "cento ",
-    "start": 10881,
-    "end": 11249
+    "part": "basta ",
+    "start": 2894,
+    "end": 3250
+  },
+  {
+    "part": "escolher ",
+    "start": 3263,
+    "end": 3723
+  },
+  {
+    "part": "o ",
+    "start": 3736,
+    "end": 3802
+  },
+  {
+    "part": "tipo, ",
+    "start": 3815,
+    "end": 4249
+  },
+  {
+    "part": "informar ",
+    "start": 4407,
+    "end": 4881
+  },
+  {
+    "part": "o ",
+    "start": 4894,
+    "end": 4934
+  },
+  {
+    "part": "período ",
+    "start": 4947,
+    "end": 5381
   },
   {
     "part": "e ",
-    "start": 11263,
-    "end": 11289
+    "start": 5394,
+    "end": 5434
   },
   {
-    "part": "aplico ",
-    "start": 11302,
-    "end": 11750
+    "part": "justificar. ",
+    "start": 5447,
+    "end": 6157
   },
   {
-    "part": "compensação ",
-    "start": 11763,
-    "end": 12460
+    "part": "O ",
+    "start": 6434,
+    "end": 6526
   },
   {
-    "part": "cruzada.",
-    "start": 12473,
-    "end": 13039
+    "part": "sistema ",
+    "start": 6539,
+    "end": 7026
+  },
+  {
+    "part": "calcula ",
+    "start": 7039,
+    "end": 7499
+  },
+  {
+    "part": "a ",
+    "start": 7513,
+    "end": 7552
+  },
+  {
+    "part": "duração ",
+    "start": 7565,
+    "end": 8039
+  },
+  {
+    "part": "sozinho — ",
+    "start": 8052,
+    "end": 8671
+  },
+  {
+    "part": "inclusive ",
+    "start": 8842,
+    "end": 9513
+  },
+  {
+    "part": "quando ",
+    "start": 9526,
+    "end": 9776
+  },
+  {
+    "part": "o ",
+    "start": 9789,
+    "end": 9842
+  },
+  {
+    "part": "turno ",
+    "start": 9855,
+    "end": 10236
+  },
+  {
+    "part": "vira ",
+    "start": 10250,
+    "end": 10486
+  },
+  {
+    "part": "a ",
+    "start": 10500,
+    "end": 10526
+  },
+  {
+    "part": "madrugada.",
+    "start": 10539,
+    "end": 11276
   }
 ]

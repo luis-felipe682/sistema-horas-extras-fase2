@@ -1,177 +1,107 @@
 [
   {
-    "part": "Eu ",
+    "part": "O ",
     "start": 52,
-    "end": 236
+    "end": 157
   },
   {
-    "part": "conectei ",
-    "start": 250,
-    "end": 763
+    "part": "resultado ",
+    "start": 171,
+    "end": 789
   },
   {
-    "part": "o ",
-    "start": 776,
-    "end": 802
+    "part": "é ",
+    "start": 802,
+    "end": 855
   },
   {
-    "part": "repositório ",
-    "start": 815,
-    "end": 1552
+    "part": "rastreabilidade ",
+    "start": 868,
+    "end": 1789
   },
   {
-    "part": "ao ",
-    "start": 1565,
-    "end": 1657
-  },
-  {
-    "part": "GitHub ",
-    "start": 1671,
-    "end": 2223
-  },
-  {
-    "part": "e ",
-    "start": 2236,
+    "part": "total, ",
+    "start": 1802,
     "end": 2263
   },
   {
-    "part": "publiquei ",
-    "start": 2276,
-    "end": 2763
+    "part": "segurança ",
+    "start": 2302,
+    "end": 2934
   },
   {
-    "part": "a ",
-    "start": 2776,
-    "end": 2802
+    "part": "de ",
+    "start": 2947,
+    "end": 3039
   },
   {
-    "part": "aplicação ",
-    "start": 2815,
-    "end": 3434
+    "part": "verdade, ",
+    "start": 3052,
+    "end": 3684
   },
   {
-    "part": "no ",
-    "start": 3447,
-    "end": 3539
+    "part": "e ",
+    "start": 3815,
+    "end": 3881
   },
   {
-    "part": "Render. ",
-    "start": 3552,
+    "part": "um ",
+    "start": 3894,
     "end": 3960
   },
   {
-    "part": "No ",
-    "start": 4868,
-    "end": 5039
+    "part": "fechamento ",
+    "start": 3973,
+    "end": 4578
   },
   {
-    "part": "sistema, ",
-    "start": 5052,
-    "end": 5631
+    "part": "de ",
+    "start": 4592,
+    "end": 4723
   },
   {
-    "part": "o ",
-    "start": 5934,
-    "end": 6026
+    "part": "horas ",
+    "start": 4736,
+    "end": 5065
   },
   {
-    "part": "histórico ",
-    "start": 6039,
-    "end": 6605
+    "part": "muito ",
+    "start": 5078,
+    "end": 5407
   },
   {
-    "part": "e ",
-    "start": 6618,
-    "end": 6644
+    "part": "mais ",
+    "start": 5421,
+    "end": 5592
   },
   {
-    "part": "os ",
-    "start": 6657,
-    "end": 6763
+    "part": "ágil — ",
+    "start": 5605,
+    "end": 6105
   },
   {
-    "part": "pareceres ",
-    "start": 6776,
-    "end": 7302
+    "part": "pra ",
+    "start": 6276,
+    "end": 6434
   },
   {
-    "part": "ajudam ",
-    "start": 7315,
-    "end": 7855
-  },
-  {
-    "part": "a ",
-    "start": 7868,
-    "end": 7921
-  },
-  {
-    "part": "conferir ",
-    "start": 7934,
-    "end": 8460
-  },
-  {
-    "part": "os ",
-    "start": 8473,
-    "end": 8605
-  },
-  {
-    "part": "cálculos ",
-    "start": 8618,
-    "end": 9078
+    "part": "colaborador ",
+    "start": 6447,
+    "end": 7184
   },
   {
     "part": "e ",
-    "start": 9092,
-    "end": 9210
+    "start": 7197,
+    "end": 7263
   },
   {
-    "part": "as ",
-    "start": 9223,
-    "end": 9328
+    "part": "pra ",
+    "start": 7276,
+    "end": 7447
   },
   {
-    "part": "decisões. ",
-    "start": 9342,
-    "end": 10157
-  },
-  {
-    "part": "Assim ",
-    "start": 11065,
-    "end": 11552
-  },
-  {
-    "part": "concluo ",
-    "start": 11565,
-    "end": 12078
-  },
-  {
-    "part": "a ",
-    "start": 12092,
-    "end": 12144
-  },
-  {
-    "part": "apresentação ",
-    "start": 12157,
-    "end": 12881
-  },
-  {
-    "part": "do ",
-    "start": 12894,
-    "end": 13000
-  },
-  {
-    "part": "meu ",
-    "start": 13013,
-    "end": 13171
-  },
-  {
-    "part": "projeto. ",
-    "start": 13184,
-    "end": 13802
-  },
-  {
-    "part": "Obrigado.",
-    "start": 14710,
-    "end": 15447
+    "part": "gestor.",
+    "start": 7460,
+    "end": 7947
   }
 ]

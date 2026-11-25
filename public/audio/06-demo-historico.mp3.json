@@ -1,122 +1,147 @@
 [
   {
-    "part": "Depois, ",
+    "part": "E ",
     "start": 52,
-    "end": 644
+    "end": 144
   },
   {
-    "part": "eu ",
-    "start": 907,
-    "end": 1039
+    "part": "dá ",
+    "start": 157,
+    "end": 328
   },
   {
-    "part": "consulto ",
-    "start": 1052,
-    "end": 1618
+    "part": "pra ",
+    "start": 342,
+    "end": 473
   },
   {
-    "part": "o ",
-    "start": 1631,
-    "end": 1671
+    "part": "acompanhar ",
+    "start": 486,
+    "end": 1026
   },
   {
-    "part": "histórico ",
-    "start": 1684,
-    "end": 2223
+    "part": "tudo ",
+    "start": 1105,
+    "end": 1315
   },
   {
-    "part": "e ",
-    "start": 2236,
-    "end": 2315
+    "part": "depois: ",
+    "start": 1328,
+    "end": 1881
   },
   {
-    "part": "filtro ",
-    "start": 2328,
-    "end": 2710
+    "part": "filtrar ",
+    "start": 2131,
+    "end": 2578
   },
   {
     "part": "por ",
-    "start": 2723,
-    "end": 2907
+    "start": 2592,
+    "end": 2750
   },
   {
-    "part": "tipo ",
-    "start": 2921,
-    "end": 3236
+    "part": "tipo, ",
+    "start": 2763,
+    "end": 3171
   },
   {
-    "part": "ou ",
-    "start": 3250,
-    "end": 3368
+    "part": "ver ",
+    "start": 3394,
+    "end": 3552
   },
   {
-    "part": "status. ",
-    "start": 3381,
-    "end": 4052
+    "part": "o ",
+    "start": 3565,
+    "end": 3618
   },
   {
-    "part": "Cada ",
-    "start": 4960,
-    "end": 5236
+    "part": "que ",
+    "start": 3631,
+    "end": 3723
   },
   {
-    "part": "lançamento ",
-    "start": 5250,
-    "end": 5907
+    "part": "já ",
+    "start": 3736,
+    "end": 3881
   },
   {
-    "part": "mostra ",
-    "start": 5921,
-    "end": 6328
+    "part": "foi ",
+    "start": 3894,
+    "end": 4078
   },
   {
-    "part": "duração, ",
-    "start": 6342,
-    "end": 6907
+    "part": "aprovado, ",
+    "start": 4092,
+    "end": 4723
   },
   {
-    "part": "justificativa, ",
-    "start": 7197,
-    "end": 8171
+    "part": "o ",
+    "start": 4802,
+    "end": 4881
   },
   {
-    "part": "parecer ",
-    "start": 8407,
-    "end": 8907
+    "part": "que ",
+    "start": 4894,
+    "end": 5013
   },
   {
-    "part": "e ",
-    "start": 8921,
-    "end": 8960
+    "part": "ainda ",
+    "start": 5026,
+    "end": 5355
   },
   {
-    "part": "se ",
-    "start": 8973,
-    "end": 9065
-  },
-  {
-    "part": "está ",
-    "start": 9078,
-    "end": 9276
+    "part": "tá ",
+    "start": 5368,
+    "end": 5486
   },
   {
     "part": "pendente, ",
-    "start": 9289,
-    "end": 9921
+    "start": 5500,
+    "end": 6131
   },
   {
-    "part": "aprovado ",
-    "start": 10184,
-    "end": 10815
+    "part": "o ",
+    "start": 6184,
+    "end": 6249
   },
   {
-    "part": "ou ",
-    "start": 10828,
-    "end": 10907
+    "part": "que ",
+    "start": 6263,
+    "end": 6381
   },
   {
-    "part": "reprovado.",
-    "start": 10921,
-    "end": 11631
+    "part": "foi ",
+    "start": 6394,
+    "end": 6578
+  },
+  {
+    "part": "reprovado — ",
+    "start": 6592,
+    "end": 7289
+  },
+  {
+    "part": "sem ",
+    "start": 7500,
+    "end": 7710
+  },
+  {
+    "part": "precisar ",
+    "start": 7723,
+    "end": 8236
+  },
+  {
+    "part": "abrir ",
+    "start": 8250,
+    "end": 8592
+  },
+  {
+    "part": "planilha ",
+    "start": 8605,
+    "end": 9092
+  },
+  {
+    "part": "nenhuma.",
+    "start": 9105,
+    "end": 9631
   }
 ]

@@ -1,152 +1,272 @@
 [
   {
-    "part": "Eu ",
-    "start": 52,
-    "end": 223
-  },
-  {
-    "part": "escolhi ",
-    "start": 236,
-    "end": 657
-  },
-  {
-    "part": "Node",
-    "start": 671,
-    "end": 947
-  },
-  {
-    "part": ".",
-    "start": 960,
-    "end": 1328
-  },
-  {
-    "part": "js ",
-    "start": 1342,
-    "end": 2105
-  },
-  {
-    "part": "com ",
-    "start": 2118,
-    "end": 2302
-  },
-  {
-    "part": "API ",
-    "start": 2315,
-    "end": 2657
-  },
-  {
-    "part": "REST. ",
-    "start": 2671,
-    "end": 3184
-  },
-  {
-    "part": "No ",
-    "start": 4092,
-    "end": 4289
-  },
-  {
-    "part": "banco, ",
-    "start": 4302,
-    "end": 4697
-  },
-  {
-    "part": "salvo ",
-    "start": 5000,
-    "end": 5381
-  },
-  {
-    "part": "os ",
-    "start": 5394,
-    "end": 5473
-  },
-  {
-    "part": "registros ",
-    "start": 5486,
-    "end": 6092
-  },
-  {
-    "part": "no ",
-    "start": 6105,
-    "end": 6197
-  },
-  {
-    "part": "arquivo ",
-    "start": 6210,
-    "end": 6657
-  },
-  {
-    "part": "dados",
-    "start": 6671,
-    "end": 7052
-  },
-  {
-    "part": ".",
-    "start": 7065,
-    "end": 7381
-  },
-  {
-    "part": "sqlite. ",
-    "start": 7394,
-    "end": 7907
-  },
-  {
     "part": "A ",
-    "start": 8815,
-    "end": 8907
+    "start": 45,
+    "end": 112
   },
   {
-    "part": "autenticação ",
-    "start": 8921,
-    "end": 9776
+    "part": "solução ",
+    "start": 123,
+    "end": 664
   },
   {
-    "part": "usa ",
-    "start": 9789,
-    "end": 10065
+    "part": "é ",
+    "start": 698,
+    "end": 743
   },
   {
-    "part": "token ",
-    "start": 10078,
-    "end": 10486
+    "part": "uma ",
+    "start": 754,
+    "end": 867
   },
   {
-    "part": "assinado ",
-    "start": 10500,
-    "end": 10986
+    "part": "aplicação ",
+    "start": 878,
+    "end": 1396
   },
   {
-    "part": "equivalente ",
-    "start": 11000,
-    "end": 11631
+    "part": "web ",
+    "start": 1407,
+    "end": 1632
+  },
+  {
+    "part": "simples, ",
+    "start": 1644,
+    "end": 2117
+  },
+  {
+    "part": "de ",
+    "start": 2218,
+    "end": 2331
+  },
+  {
+    "part": "ponta ",
+    "start": 2342,
+    "end": 2601
   },
   {
     "part": "a ",
-    "start": 11644,
-    "end": 11723
+    "start": 2612,
+    "end": 2657
   },
   {
-    "part": "JWT. ",
-    "start": 11736,
-    "end": 12736
+    "part": "ponta: ",
+    "start": 2668,
+    "end": 3051
   },
   {
-    "part": "Também ",
-    "start": 13644,
-    "end": 14078
+    "part": "interface ",
+    "start": 3265,
+    "end": 3851
   },
   {
-    "part": "separei ",
-    "start": 14092,
-    "end": 14565
+    "part": "em ",
+    "start": 3862,
+    "end": 3952
+  },
+  {
+    "part": "HTML ",
+    "start": 3963,
+    "end": 4786
+  },
+  {
+    "part": "e ",
+    "start": 4797,
+    "end": 4831
+  },
+  {
+    "part": "JavaScript, ",
+    "start": 4842,
+    "end": 5641
+  },
+  {
+    "part": "servidor ",
+    "start": 5810,
+    "end": 6306
+  },
+  {
+    "part": "Node",
+    "start": 6317,
+    "end": 6621
+  },
+  {
+    "part": ".",
+    "start": 6632,
+    "end": 6925
+  },
+  {
+    "part": "js ",
+    "start": 6936,
+    "end": 7578
+  },
+  {
+    "part": "com ",
+    "start": 7590,
+    "end": 7758
+  },
+  {
+    "part": "API ",
+    "start": 7770,
+    "end": 8063
+  },
+  {
+    "part": "REST, ",
+    "start": 8074,
+    "end": 8524
+  },
+  {
+    "part": "autenticação ",
+    "start": 8672,
+    "end": 9415
+  },
+  {
+    "part": "por ",
+    "start": 9426,
+    "end": 9550
+  },
+  {
+    "part": "token ",
+    "start": 9618,
+    "end": 9911
+  },
+  {
+    "part": "assinado, ",
+    "start": 9922,
+    "end": 10485
+  },
+  {
+    "part": "e ",
+    "start": 10665,
+    "end": 10721
   },
   {
     "part": "os ",
-    "start": 14578,
-    "end": 14697
+    "start": 10733,
+    "end": 10823
   },
   {
-    "part": "perfis.",
-    "start": 14710,
-    "end": 15315
+    "part": "dados ",
+    "start": 10834,
+    "end": 11149
+  },
+  {
+    "part": "guardados ",
+    "start": 11161,
+    "end": 11690
+  },
+  {
+    "part": "em ",
+    "start": 11701,
+    "end": 11893
+  },
+  {
+    "part": "SQLite. ",
+    "start": 11904,
+    "end": 12658
+  },
+  {
+    "part": "E ",
+    "start": 12894,
+    "end": 12984
+  },
+  {
+    "part": "o ",
+    "start": 12995,
+    "end": 13029
+  },
+  {
+    "part": "mais ",
+    "start": 13040,
+    "end": 13209
+  },
+  {
+    "part": "importante: ",
+    "start": 13220,
+    "end": 13896
+  },
+  {
+    "part": "cada ",
+    "start": 13963,
+    "end": 14222
+  },
+  {
+    "part": "perfil ",
+    "start": 14234,
+    "end": 14605
+  },
+  {
+    "part": "vê ",
+    "start": 14617,
+    "end": 14763
+  },
+  {
+    "part": "só ",
+    "start": 14774,
+    "end": 14999
+  },
+  {
+    "part": "o ",
+    "start": 15011,
+    "end": 15056
+  },
+  {
+    "part": "que ",
+    "start": 15067,
+    "end": 15157
+  },
+  {
+    "part": "precisa ",
+    "start": 15168,
+    "end": 15608
+  },
+  {
+    "part": "ver — ",
+    "start": 15619,
+    "end": 15844
+  },
+  {
+    "part": "o ",
+    "start": 16193,
+    "end": 16238
+  },
+  {
+    "part": "supervisor ",
+    "start": 16250,
+    "end": 16858
+  },
+  {
+    "part": "nunca ",
+    "start": 16869,
+    "end": 17195
+  },
+  {
+    "part": "tem ",
+    "start": 17207,
+    "end": 17342
+  },
+  {
+    "part": "acesso ",
+    "start": 17353,
+    "end": 17758
+  },
+  {
+    "part": "ao ",
+    "start": 17770,
+    "end": 17837
+  },
+  {
+    "part": "salário ",
+    "start": 17849,
+    "end": 18276
+  },
+  {
+    "part": "do ",
+    "start": 18288,
+    "end": 18367
+  },
+  {
+    "part": "colaborador.",
+    "start": 18378,
+    "end": 19042
   }
 ]

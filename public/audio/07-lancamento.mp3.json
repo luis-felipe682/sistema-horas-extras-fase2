@@ -2,231 +2,231 @@
   {
     "part": "Na ",
     "start": 52,
-    "end": 223
+    "end": 234
   },
   {
     "part": "aba ",
-    "start": 236,
-    "end": 526
+    "start": 247,
+    "end": 520
   },
   {
     "part": "de ",
-    "start": 539,
-    "end": 631
+    "start": 533,
+    "end": 625
   },
   {
     "part": "lançamento, ",
-    "start": 644,
-    "end": 1381
+    "start": 638,
+    "end": 1367
   },
   {
     "part": "escolho ",
-    "start": 1421,
-    "end": 1894
+    "start": 1666,
+    "end": 2174
   },
   {
     "part": "hora ",
-    "start": 1907,
-    "end": 2197
+    "start": 2187,
+    "end": 2460
   },
   {
     "part": "extra ",
-    "start": 2210,
-    "end": 2592
+    "start": 2473,
+    "end": 2812
   },
   {
     "part": "de ",
-    "start": 2605,
-    "end": 2710
+    "start": 2825,
+    "end": 2916
   },
   {
     "part": "cinquenta ",
-    "start": 2723,
-    "end": 3302
+    "start": 2929,
+    "end": 3463
   },
   {
     "part": "ou ",
-    "start": 3328,
-    "end": 3407
+    "start": 3476,
+    "end": 3554
   },
   {
     "part": "cem ",
-    "start": 3421,
-    "end": 3671
+    "start": 3567,
+    "end": 3802
   },
   {
     "part": "por ",
-    "start": 3684,
-    "end": 3842
+    "start": 3815,
+    "end": 3971
   },
   {
     "part": "cento, ",
-    "start": 3855,
-    "end": 4315
+    "start": 3984,
+    "end": 4427
   },
   {
     "part": "ou ",
-    "start": 4368,
-    "end": 4513
+    "start": 4739,
+    "end": 4882
   },
   {
     "part": "sobreaviso. ",
-    "start": 4526,
-    "end": 5368
+    "start": 4895,
+    "end": 5611
   },
   {
     "part": "Informo ",
-    "start": 5644,
-    "end": 6131
+    "start": 6510,
+    "end": 7122
   },
   {
     "part": "data, ",
-    "start": 6144,
-    "end": 6605
+    "start": 7135,
+    "end": 7486
   },
   {
     "part": "horário ",
-    "start": 6763,
-    "end": 7157
+    "start": 7708,
+    "end": 8072
   },
   {
     "part": "de ",
-    "start": 7171,
-    "end": 7263
+    "start": 8085,
+    "end": 8190
   },
   {
     "part": "início ",
-    "start": 7276,
-    "end": 7671
+    "start": 8203,
+    "end": 8606
   },
   {
     "part": "e ",
-    "start": 7684,
-    "end": 7736
+    "start": 8619,
+    "end": 8671
   },
   {
     "part": "fim ",
-    "start": 7750,
-    "end": 8052
+    "start": 8684,
+    "end": 8932
   },
   {
     "part": "e ",
-    "start": 8065,
-    "end": 8118
+    "start": 8945,
+    "end": 8984
   },
   {
     "part": "justificativa ",
-    "start": 8131,
-    "end": 8999
+    "start": 8997,
+    "end": 9882
   },
   {
     "part": "técnica. ",
-    "start": 9039,
-    "end": 9671
+    "start": 9895,
+    "end": 10442
   },
   {
     "part": "A ",
-    "start": 9947,
-    "end": 10039
+    "start": 11341,
+    "end": 11471
   },
   {
     "part": "API ",
-    "start": 10052,
-    "end": 10473
+    "start": 11484,
+    "end": 11927
   },
   {
     "part": "valida ",
-    "start": 10486,
-    "end": 10947
+    "start": 11940,
+    "end": 12317
   },
   {
     "part": "a ",
-    "start": 10960,
-    "end": 10986
+    "start": 12330,
+    "end": 12356
   },
   {
     "part": "requisição ",
-    "start": 11000,
-    "end": 11710
+    "start": 12369,
+    "end": 13007
   },
   {
     "part": "e ",
-    "start": 11750,
-    "end": 11802
+    "start": 13020,
+    "end": 13059
   },
   {
     "part": "grava ",
-    "start": 11815,
-    "end": 12302
+    "start": 13072,
+    "end": 13372
   },
   {
     "part": "o ",
-    "start": 12315,
-    "end": 12342
+    "start": 13385,
+    "end": 13398
   },
   {
     "part": "registro ",
-    "start": 12355,
-    "end": 12921
+    "start": 13411,
+    "end": 13932
   },
   {
     "part": "com ",
-    "start": 12934,
-    "end": 13078
+    "start": 13945,
+    "end": 14088
   },
   {
     "part": "status ",
-    "start": 13092,
-    "end": 13592
+    "start": 14101,
+    "end": 14609
   },
   {
     "part": "pendente ",
-    "start": 13605,
-    "end": 14105
+    "start": 14622,
+    "end": 15104
   },
   {
     "part": "no ",
-    "start": 14118,
-    "end": 14223
+    "start": 15117,
+    "end": 15234
   },
   {
     "part": "banco, ",
-    "start": 14236,
-    "end": 14671
+    "start": 15247,
+    "end": 15638
   },
   {
     "part": "pronto ",
-    "start": 14815,
-    "end": 15118
+    "start": 15924,
+    "end": 16328
   },
   {
     "part": "para ",
-    "start": 15131,
-    "end": 15302
+    "start": 16341,
+    "end": 16523
   },
   {
     "part": "análise, ",
-    "start": 15315,
-    "end": 15907
+    "start": 16536,
+    "end": 17018
   },
   {
     "part": "com ",
-    "start": 15947,
-    "end": 16105
+    "start": 17291,
+    "end": 17434
   },
   {
     "part": "os ",
-    "start": 16118,
-    "end": 16236
+    "start": 17447,
+    "end": 17526
   },
   {
     "part": "dados ",
-    "start": 16250,
-    "end": 16592
+    "start": 17539,
+    "end": 17916
   },
   {
     "part": "reunidos.",
-    "start": 16605,
-    "end": 17289
+    "start": 17929,
+    "end": 18593
   }
 ]

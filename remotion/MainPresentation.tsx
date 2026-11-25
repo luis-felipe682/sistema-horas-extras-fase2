@@ -2,6 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Audio, Sequence, staticFile} from 'remotion';
 import {SceneArchitecture, SceneDemo, SceneDeploy, SceneIntro, SceneOutro, SceneProblem} from './scenes/Scenes';
 import type {MockMode} from './components/MockupBrowser';
+import {PresenterAvatar} from './components/PresenterAvatar';
 
 const Voice: React.FC<{file: string}> = ({file}) => <Audio src={staticFile('audio/' + file)} volume={1}/>;
 const narration = [
@@ -21,7 +22,7 @@ const narration = [
 const DemoScene: React.FC<{mode: MockMode; label: string; caption: string}> = ({mode, label, caption}) =>
   <SceneDemo mode={mode} label={label} caption={caption}/>;
 
-export const MainPresentation: React.FC = () => <AbsoluteFill style={{background: '#f3f3ed'}}>
+export const MainPresentation: React.FC<{avatarVideo?: boolean; avatarImage?: boolean}> = ({avatarVideo = false, avatarImage = false}) => <AbsoluteFill style={{background: '#f3f3ed'}}>
   <Sequence from={0} durationInFrames={600}><SceneIntro/></Sequence>
   <Sequence from={600} durationInFrames={600}><SceneProblem/></Sequence>
   <Sequence from={1200} durationInFrames={600}><SceneArchitecture/></Sequence>
@@ -34,4 +35,5 @@ export const MainPresentation: React.FC = () => <AbsoluteFill style={{background
   <Sequence from={5700} durationInFrames={750}><SceneDeploy/></Sequence>
   <Sequence from={6450} durationInFrames={750}><SceneOutro/></Sequence>
   {narration.map((item) => <Sequence key={item.file} from={item.from} durationInFrames={item.duration}><Voice file={item.file}/></Sequence>)}
+   <PresenterAvatar videoAvailable={avatarVideo} imageAvailable={avatarImage} narration={narration}/>
 </AbsoluteFill>;

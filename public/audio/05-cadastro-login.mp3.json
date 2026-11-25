@@ -2,191 +2,166 @@
   {
     "part": "Na ",
     "start": 52,
-    "end": 236
+    "end": 260
   },
   {
     "part": "tela ",
-    "start": 250,
-    "end": 513
+    "start": 273,
+    "end": 507
   },
   {
     "part": "inicial, ",
-    "start": 526,
-    "end": 1105
+    "start": 520,
+    "end": 1093
   },
   {
     "part": "a ",
-    "start": 1157,
-    "end": 1223
+    "start": 1223,
+    "end": 1302
   },
   {
     "part": "pessoa ",
-    "start": 1236,
-    "end": 1605
+    "start": 1315,
+    "end": 1744
   },
   {
     "part": "cria ",
-    "start": 1618,
-    "end": 1855
+    "start": 1757,
+    "end": 2031
   },
   {
-    "part": "uma ",
-    "start": 1868,
-    "end": 2065
+    "part": "a ",
+    "start": 2044,
+    "end": 2083
   },
   {
     "part": "conta ",
-    "start": 2105,
-    "end": 2513
+    "start": 2096,
+    "end": 2447
   },
   {
     "part": "e ",
-    "start": 2526,
-    "end": 2578
+    "start": 2460,
+    "end": 2486
   },
   {
     "part": "escolhe ",
-    "start": 2592,
-    "end": 3039
+    "start": 2500,
+    "end": 2877
   },
   {
     "part": "o ",
-    "start": 3052,
-    "end": 3092
+    "start": 2890,
+    "end": 2916
   },
   {
-    "part": "perfil ",
-    "start": 3105,
-    "end": 3473
-  },
-  {
-    "part": "de ",
-    "start": 3486,
-    "end": 3565
-  },
-  {
-    "part": "acesso, ",
-    "start": 3578,
-    "end": 4144
+    "part": "perfil, ",
+    "start": 2929,
+    "end": 3437
   },
   {
     "part": "ou ",
-    "start": 4315,
-    "end": 4499
+    "start": 3671,
+    "end": 3867
   },
   {
     "part": "entra ",
-    "start": 4513,
-    "end": 4763
+    "start": 3880,
+    "end": 4140
   },
   {
     "part": "com ",
-    "start": 4776,
-    "end": 4947
+    "start": 4153,
+    "end": 4309
   },
   {
     "part": "suas ",
-    "start": 4960,
-    "end": 5223
+    "start": 4322,
+    "end": 4596
   },
   {
     "part": "credenciais. ",
-    "start": 5236,
-    "end": 6171
+    "start": 4609,
+    "end": 5507
   },
   {
     "part": "O ",
-    "start": 6447,
-    "end": 6526
+    "start": 6406,
+    "end": 6523
   },
   {
     "part": "servidor ",
-    "start": 6539,
-    "end": 7105
+    "start": 6536,
+    "end": 7057
   },
   {
     "part": "confere ",
-    "start": 7131,
-    "end": 7565
+    "start": 7070,
+    "end": 7513
   },
   {
-    "part": "o ",
-    "start": 7578,
-    "end": 7644
-  },
-  {
-    "part": "hash ",
-    "start": 7657,
-    "end": 7934
-  },
-  {
-    "part": "da ",
-    "start": 7947,
-    "end": 8078
+    "part": "a ",
+    "start": 7526,
+    "end": 7578
   },
   {
     "part": "senha ",
-    "start": 8092,
-    "end": 8565
+    "start": 7591,
+    "end": 7955
   },
   {
     "part": "e ",
-    "start": 8592,
-    "end": 8684
+    "start": 7968,
+    "end": 7994
   },
   {
     "part": "inicia ",
-    "start": 8697,
-    "end": 9118
+    "start": 8007,
+    "end": 8372
   },
   {
-    "part": "uma ",
-    "start": 9131,
-    "end": 9276
+    "part": "a ",
+    "start": 8385,
+    "end": 8424
   },
   {
     "part": "sessão ",
-    "start": 9289,
-    "end": 9723
+    "start": 8437,
+    "end": 8880
   },
   {
     "part": "com ",
-    "start": 9736,
-    "end": 9947
+    "start": 8893,
+    "end": 9114
   },
   {
     "part": "token ",
-    "start": 9973,
-    "end": 10328
+    "start": 9127,
+    "end": 9544
   },
   {
     "part": "assinado. ",
-    "start": 10342,
-    "end": 10973
+    "start": 9557,
+    "end": 10130
   },
   {
     "part": "Vou ",
-    "start": 11250,
-    "end": 11447
+    "start": 11028,
+    "end": 11276
   },
   {
     "part": "começar ",
-    "start": 11460,
-    "end": 11986
+    "start": 11289,
+    "end": 11848
   },
   {
-    "part": "pelo ",
-    "start": 12000,
-    "end": 12223
-  },
-  {
-    "part": "perfil ",
-    "start": 12236,
-    "end": 12644
+    "part": "como ",
+    "start": 11862,
+    "end": 12148
   },
   {
     "part": "Colaborador.",
-    "start": 12657,
-    "end": 13460
+    "start": 12161,
+    "end": 12929
   }
 ]

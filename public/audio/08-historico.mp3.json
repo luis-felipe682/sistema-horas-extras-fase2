@@ -2,176 +2,146 @@
   {
     "part": "O ",
     "start": 52,
-    "end": 131
+    "end": 156
   },
   {
     "part": "lançamento ",
-    "start": 144,
-    "end": 763
+    "start": 169,
+    "end": 872
   },
   {
     "part": "aparece ",
-    "start": 776,
-    "end": 1276
+    "start": 885,
+    "end": 1380
   },
   {
     "part": "no ",
-    "start": 1289,
-    "end": 1368
+    "start": 1393,
+    "end": 1458
   },
   {
-    "part": "histórico. ",
-    "start": 1381,
-    "end": 2013
+    "part": "histórico, ",
+    "start": 1471,
+    "end": 2005
   },
   {
-    "part": "Eu ",
-    "start": 2289,
-    "end": 2421
+    "part": "onde ",
+    "start": 2278,
+    "end": 2552
   },
   {
     "part": "filtro ",
-    "start": 2434,
-    "end": 2842
+    "start": 2565,
+    "end": 2942
   },
   {
     "part": "por ",
-    "start": 2855,
-    "end": 3013
+    "start": 2955,
+    "end": 3112
   },
   {
     "part": "tipo ",
-    "start": 3039,
-    "end": 3460
+    "start": 3125,
+    "end": 3424
   },
   {
     "part": "ou ",
-    "start": 3500,
-    "end": 3644
+    "start": 3437,
+    "end": 3528
   },
   {
     "part": "status ",
-    "start": 3657,
-    "end": 4105
+    "start": 3541,
+    "end": 3984
   },
   {
     "part": "e ",
-    "start": 4118,
-    "end": 4236
+    "start": 3997,
+    "end": 4101
   },
   {
     "part": "confiro ",
-    "start": 4250,
-    "end": 4684
+    "start": 4114,
+    "end": 4570
   },
   {
     "part": "duração ",
-    "start": 4697,
-    "end": 5289
+    "start": 4583,
+    "end": 5078
   },
   {
     "part": "e ",
-    "start": 5302,
-    "end": 5342
+    "start": 5091,
+    "end": 5143
   },
   {
     "part": "parecer. ",
-    "start": 5355,
-    "end": 5921
+    "start": 5156,
+    "end": 5703
   },
   {
     "part": "Enquanto ",
-    "start": 6197,
-    "end": 6618
-  },
-  {
-    "part": "ainda ",
-    "start": 6631,
-    "end": 6894
+    "start": 6601,
+    "end": 7083
   },
   {
     "part": "está ",
-    "start": 6907,
-    "end": 7131
+    "start": 7096,
+    "end": 7291
   },
   {
     "part": "pendente, ",
-    "start": 7144,
-    "end": 7763
+    "start": 7304,
+    "end": 7877
   },
   {
     "part": "o ",
-    "start": 7802,
-    "end": 7855
+    "start": 8203,
+    "end": 8268
   },
   {
     "part": "colaborador ",
-    "start": 7868,
-    "end": 8605
-  },
-  {
-    "part": "também ",
-    "start": 8618,
-    "end": 9052
+    "start": 8281,
+    "end": 8984
   },
   {
     "part": "pode ",
-    "start": 9065,
-    "end": 9342
+    "start": 8997,
+    "end": 9244
   },
   {
     "part": "excluir ",
-    "start": 9355,
-    "end": 9802
+    "start": 9257,
+    "end": 9700
   },
   {
     "part": "o ",
-    "start": 9815,
-    "end": 9881
+    "start": 9713,
+    "end": 9778
   },
   {
     "part": "próprio ",
-    "start": 9894,
-    "end": 10302
+    "start": 9791,
+    "end": 10247
   },
   {
     "part": "registro ",
-    "start": 10315,
-    "end": 10921
+    "start": 10260,
+    "end": 10846
   },
   {
     "part": "antes ",
-    "start": 10934,
-    "end": 11236
+    "start": 10859,
+    "end": 11171
   },
   {
     "part": "da ",
-    "start": 11250,
-    "end": 11368
+    "start": 11184,
+    "end": 11328
   },
   {
-    "part": "análise, ",
-    "start": 11381,
-    "end": 11973
-  },
-  {
-    "part": "sem ",
-    "start": 12157,
-    "end": 12368
-  },
-  {
-    "part": "perder ",
-    "start": 12381,
-    "end": 12776
-  },
-  {
-    "part": "o ",
-    "start": 12789,
-    "end": 12828
-  },
-  {
-    "part": "contexto.",
-    "start": 12842,
-    "end": 13513
+    "part": "análise.",
+    "start": 11341,
+    "end": 11835
   }
 ]

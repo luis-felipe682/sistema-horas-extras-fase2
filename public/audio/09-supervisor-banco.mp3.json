@@ -1,327 +1,247 @@
 [
   {
-    "part": "Agora, ",
+    "part": "Como ",
     "start": 52,
-    "end": 526
-  },
-  {
-    "part": "como ",
-    "start": 565,
-    "end": 842
+    "end": 364
   },
   {
     "part": "Supervisor, ",
-    "start": 855,
-    "end": 1605
+    "start": 377,
+    "end": 1054
   },
   {
     "part": "consulto ",
-    "start": 1750,
-    "end": 2263
+    "start": 1354,
+    "end": 1914
   },
   {
     "part": "a ",
-    "start": 2276,
-    "end": 2342
+    "start": 1927,
+    "end": 2005
   },
   {
     "part": "fila ",
-    "start": 2355,
-    "end": 2657
+    "start": 2018,
+    "end": 2317
   },
   {
     "part": "de ",
-    "start": 2671,
-    "end": 2763
+    "start": 2330,
+    "end": 2434
   },
   {
-    "part": "pedidos ",
-    "start": 2776,
-    "end": 3302
-  },
-  {
-    "part": "pendentes ",
-    "start": 3315,
-    "end": 3868
-  },
-  {
-    "part": "da ",
-    "start": 3881,
-    "end": 3999
-  },
-  {
-    "part": "equipe. ",
-    "start": 4013,
-    "end": 4526
-  },
-  {
-    "part": "Eu ",
-    "start": 4802,
-    "end": 4921
+    "part": "pendências, ",
+    "start": 2447,
+    "end": 3164
   },
   {
     "part": "confiro ",
-    "start": 4934,
-    "end": 5368
+    "start": 3463,
+    "end": 3958
   },
   {
     "part": "a ",
-    "start": 5381,
-    "end": 5434
+    "start": 3971,
+    "end": 4023
   },
   {
     "part": "justificativa ",
-    "start": 5447,
-    "end": 6381
+    "start": 4036,
+    "end": 4934
   },
   {
     "part": "e ",
-    "start": 6394,
-    "end": 6473
+    "start": 4947,
+    "end": 5026
   },
   {
     "part": "aprovo ",
-    "start": 6486,
-    "end": 7052
+    "start": 5039,
+    "end": 5546
   },
   {
     "part": "ou ",
-    "start": 7092,
-    "end": 7210
+    "start": 5559,
+    "end": 5625
   },
   {
     "part": "reprovo ",
-    "start": 7223,
-    "end": 7723
+    "start": 5638,
+    "end": 6171
   },
   {
     "part": "com ",
-    "start": 7736,
-    "end": 7868
-  },
-  {
-    "part": "um ",
-    "start": 7881,
-    "end": 7947
+    "start": 6184,
+    "end": 6341
   },
   {
     "part": "parecer. ",
-    "start": 7960,
-    "end": 8539
+    "start": 6354,
+    "end": 6848
   },
   {
     "part": "Por ",
-    "start": 8815,
-    "end": 8973
+    "start": 7747,
+    "end": 7916
   },
   {
     "part": "privacidade, ",
-    "start": 8986,
-    "end": 9881
+    "start": 7929,
+    "end": 8763
   },
   {
     "part": "o ",
-    "start": 9973,
-    "end": 10026
+    "start": 9062,
+    "end": 9127
   },
   {
     "part": "gestor ",
-    "start": 10039,
-    "end": 10486
+    "start": 9140,
+    "end": 9583
   },
   {
     "part": "vê ",
-    "start": 10500,
-    "end": 10671
+    "start": 9596,
+    "end": 9739
   },
   {
     "part": "os ",
-    "start": 10684,
-    "end": 10802
+    "start": 9752,
+    "end": 9856
   },
   {
     "part": "dados ",
-    "start": 10815,
-    "end": 11118
+    "start": 9869,
+    "end": 10156
   },
   {
-    "part": "operacionais ",
-    "start": 11131,
-    "end": 11921
-  },
-  {
-    "part": "necessários, ",
-    "start": 11934,
-    "end": 12749
+    "part": "operacionais, ",
+    "start": 10169,
+    "end": 11080
   },
   {
     "part": "mas ",
-    "start": 12947,
-    "end": 13131
+    "start": 11406,
+    "end": 11601
   },
   {
     "part": "não ",
-    "start": 13144,
-    "end": 13302
+    "start": 11614,
+    "end": 11783
   },
   {
     "part": "o ",
-    "start": 13315,
-    "end": 13355
+    "start": 11796,
+    "end": 11848
   },
   {
     "part": "salário ",
-    "start": 13368,
-    "end": 13815
+    "start": 11862,
+    "end": 12252
   },
   {
     "part": "base ",
-    "start": 13828,
-    "end": 14236
+    "start": 12265,
+    "end": 12656
   },
   {
     "part": "nem ",
-    "start": 14250,
-    "end": 14434
-  },
-  {
-    "part": "os ",
-    "start": 14447,
-    "end": 14539
+    "start": 12669,
+    "end": 12890
   },
   {
     "part": "valores ",
-    "start": 14552,
-    "end": 14934
+    "start": 12903,
+    "end": 13359
   },
   {
     "part": "individuais. ",
-    "start": 14947,
-    "end": 15868
+    "start": 13372,
+    "end": 14296
   },
   {
     "part": "A ",
-    "start": 16144,
-    "end": 16236
+    "start": 15195,
+    "end": 15312
   },
   {
     "part": "decisão ",
-    "start": 16250,
-    "end": 16776
+    "start": 15325,
+    "end": 15807
   },
   {
     "part": "atualiza ",
-    "start": 16789,
-    "end": 17460
+    "start": 15820,
+    "end": 16328
   },
   {
     "part": "o ",
-    "start": 17473,
-    "end": 17526
+    "start": 16341,
+    "end": 16393
   },
   {
     "part": "status ",
-    "start": 17539,
-    "end": 18052
+    "start": 16406,
+    "end": 16862
   },
   {
-    "part": "no ",
-    "start": 18065,
-    "end": 18184
-  },
-  {
-    "part": "banco ",
-    "start": 18197,
-    "end": 18565
-  },
-  {
-    "part": "relacional ",
-    "start": 18578,
-    "end": 19236
-  },
-  {
-    "part": "dados",
-    "start": 19250,
-    "end": 19671
-  },
-  {
-    "part": ".",
-    "start": 19684,
-    "end": 19999
-  },
-  {
-    "part": "sqlite. ",
-    "start": 20013,
-    "end": 20605
-  },
-  {
-    "part": "Após ",
-    "start": 20881,
-    "end": 21197
-  },
-  {
-    "part": "atualizar ",
-    "start": 21210,
-    "end": 21868
-  },
-  {
-    "part": "o ",
-    "start": 21881,
-    "end": 21934
-  },
-  {
-    "part": "histórico, ",
-    "start": 21947,
-    "end": 22592
-  },
-  {
-    "part": "o ",
-    "start": 22671,
-    "end": 22723
-  },
-  {
-    "part": "colaborador ",
-    "start": 22736,
-    "end": 23460
-  },
-  {
-    "part": "consulta ",
-    "start": 23473,
-    "end": 24039
-  },
-  {
-    "part": "o ",
-    "start": 24052,
-    "end": 24078
-  },
-  {
-    "part": "resultado, ",
-    "start": 24092,
-    "end": 24789
-  },
-  {
-    "part": "sem ",
-    "start": 25000,
-    "end": 25197
-  },
-  {
-    "part": "expor ",
-    "start": 25210,
-    "end": 25565
+    "part": "em ",
+    "start": 16875,
+    "end": 17031
   },
   {
     "part": "dados ",
-    "start": 25578,
-    "end": 25973
+    "start": 17044,
+    "end": 17421
   },
   {
-    "part": "financeiros ",
-    "start": 25986,
-    "end": 26592
+    "part": "ponto ",
+    "start": 17434,
+    "end": 17721
   },
   {
-    "part": "pessoais.",
-    "start": 26605,
-    "end": 27328
+    "part": "sqlite, ",
+    "start": 17734,
+    "end": 18242
+  },
+  {
+    "part": "e ",
+    "start": 18593,
+    "end": 18684
+  },
+  {
+    "part": "o ",
+    "start": 18697,
+    "end": 18736
+  },
+  {
+    "part": "colaborador ",
+    "start": 18750,
+    "end": 19414
+  },
+  {
+    "part": "acompanha ",
+    "start": 19427,
+    "end": 19960
+  },
+  {
+    "part": "o ",
+    "start": 19973,
+    "end": 19986
+  },
+  {
+    "part": "resultado ",
+    "start": 20000,
+    "end": 20598
+  },
+  {
+    "part": "no ",
+    "start": 20612,
+    "end": 20677
+  },
+  {
+    "part": "histórico.",
+    "start": 20690,
+    "end": 21250
   }
 ]

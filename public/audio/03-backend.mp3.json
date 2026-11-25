@@ -2,226 +2,201 @@
   {
     "part": "Para ",
     "start": 52,
-    "end": 250
+    "end": 273
   },
   {
     "part": "resolver ",
-    "start": 263,
-    "end": 723
+    "start": 286,
+    "end": 768
   },
   {
     "part": "isso, ",
-    "start": 736,
-    "end": 1105
-  },
-  {
-    "part": "eu ",
-    "start": 1315,
-    "end": 1407
+    "start": 781,
+    "end": 1106
   },
   {
     "part": "projetei ",
-    "start": 1421,
-    "end": 1934
+    "start": 1393,
+    "end": 1927
   },
   {
     "part": "uma ",
-    "start": 1947,
-    "end": 2052
+    "start": 1940,
+    "end": 2044
   },
   {
     "part": "aplicação ",
-    "start": 2065,
-    "end": 2684
+    "start": 2057,
+    "end": 2682
   },
   {
     "part": "que ",
-    "start": 2697,
-    "end": 2802
+    "start": 2695,
+    "end": 2799
   },
   {
     "part": "centraliza ",
-    "start": 2815,
-    "end": 3526
+    "start": 2812,
+    "end": 3515
   },
   {
     "part": "o ",
-    "start": 3539,
-    "end": 3578
+    "start": 3528,
+    "end": 3554
   },
   {
     "part": "fluxo. ",
-    "start": 3592,
-    "end": 4184
+    "start": 3567,
+    "end": 4114
   },
   {
     "part": "No ",
-    "start": 4460,
-    "end": 4605
+    "start": 5013,
+    "end": 5208
   },
   {
     "part": "backend, ",
-    "start": 4618,
-    "end": 5105
+    "start": 5221,
+    "end": 5651
   },
   {
     "part": "construí ",
-    "start": 5157,
-    "end": 5697
+    "start": 5963,
+    "end": 6497
   },
   {
     "part": "uma ",
-    "start": 5710,
-    "end": 5868
+    "start": 6510,
+    "end": 6692
   },
   {
-    "part": "API ",
-    "start": 5881,
-    "end": 6315
+    "part": "A ",
+    "start": 6705,
+    "end": 6757
   },
   {
-    "part": "REST ",
-    "start": 6328,
-    "end": 6671
+    "part": "P ",
+    "start": 6770,
+    "end": 6992
+  },
+  {
+    "part": "I, ",
+    "start": 7005,
+    "end": 7265
+  },
+  {
+    "part": "REST, ",
+    "start": 7513,
+    "end": 8007
   },
   {
     "part": "em ",
-    "start": 6684,
-    "end": 6736
+    "start": 8125,
+    "end": 8242
   },
   {
     "part": "Node",
-    "start": 6750,
-    "end": 7052
+    "start": 8255,
+    "end": 8567
   },
   {
     "part": ".",
-    "start": 7065,
-    "end": 7381
+    "start": 8580,
+    "end": 8906
   },
   {
     "part": "js ",
-    "start": 7394,
-    "end": 8026
+    "start": 8919,
+    "end": 9609
   },
   {
     "part": "puro, ",
-    "start": 8039,
-    "end": 8421
-  },
-  {
-    "part": "usando ",
-    "start": 8671,
-    "end": 9105
-  },
-  {
-    "part": "módulos ",
-    "start": 9118,
-    "end": 9592
-  },
-  {
-    "part": "nativos, ",
-    "start": 9605,
-    "end": 10236
-  },
-  {
-    "part": "sem ",
-    "start": 10302,
-    "end": 10513
-  },
-  {
-    "part": "framework ",
-    "start": 10526,
-    "end": 11210
-  },
-  {
-    "part": "pesado. ",
-    "start": 11223,
-    "end": 11815
-  },
-  {
-    "part": "Mantive ",
-    "start": 12092,
-    "end": 12592
-  },
-  {
-    "part": "a ",
-    "start": 12605,
-    "end": 12657
-  },
-  {
-    "part": "estrutura ",
-    "start": 12671,
-    "end": 13197
-  },
-  {
-    "part": "enxuta ",
-    "start": 13210,
-    "end": 13710
-  },
-  {
-    "part": "e ",
-    "start": 13723,
-    "end": 13776
-  },
-  {
-    "part": "fácil ",
-    "start": 13789,
-    "end": 14223
-  },
-  {
-    "part": "de ",
-    "start": 14236,
-    "end": 14328
-  },
-  {
-    "part": "manter, ",
-    "start": 14342,
-    "end": 14802
+    "start": 9622,
+    "end": 9973
   },
   {
     "part": "com ",
-    "start": 15013,
-    "end": 15184
+    "start": 10273,
+    "end": 10494
   },
   {
-    "part": "regras ",
-    "start": 15197,
-    "end": 15592
+    "part": "módulos ",
+    "start": 10507,
+    "end": 10963
   },
   {
-    "part": "de ",
-    "start": 15605,
-    "end": 15723
-  },
-  {
-    "part": "cálculo ",
-    "start": 15736,
-    "end": 16236
+    "part": "nativos ",
+    "start": 10976,
+    "end": 11445
   },
   {
     "part": "e ",
-    "start": 16250,
-    "end": 16315
+    "start": 11458,
+    "end": 11588
+  },
+  {
+    "part": "sem ",
+    "start": 11601,
+    "end": 11783
+  },
+  {
+    "part": "framework ",
+    "start": 11796,
+    "end": 12487
+  },
+  {
+    "part": "pesado. ",
+    "start": 12500,
+    "end": 13020
+  },
+  {
+    "part": "As ",
+    "start": 13919,
+    "end": 14114
+  },
+  {
+    "part": "regras ",
+    "start": 14127,
+    "end": 14531
+  },
+  {
+    "part": "de ",
+    "start": 14544,
+    "end": 14661
+  },
+  {
+    "part": "cálculo ",
+    "start": 14674,
+    "end": 15104
+  },
+  {
+    "part": "e ",
+    "start": 15117,
+    "end": 15156
   },
   {
     "part": "validação ",
-    "start": 16328,
-    "end": 16973
+    "start": 15169,
+    "end": 15859
+  },
+  {
+    "part": "são ",
+    "start": 15872,
+    "end": 16093
   },
   {
     "part": "executadas ",
-    "start": 16986,
-    "end": 17736
+    "start": 16106,
+    "end": 16822
   },
   {
     "part": "no ",
-    "start": 17750,
-    "end": 17855
+    "start": 16835,
+    "end": 16940
   },
   {
     "part": "servidor.",
-    "start": 17868,
-    "end": 18486
+    "start": 16953,
+    "end": 17473
   }
 ]

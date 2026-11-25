@@ -2,281 +2,226 @@
   {
     "part": "Aqui ",
     "start": 52,
-    "end": 328
+    "end": 377
   },
   {
     "part": "no ",
-    "start": 342,
-    "end": 460
+    "start": 390,
+    "end": 533
   },
   {
     "part": "banco ",
-    "start": 473,
-    "end": 802
-  },
-  {
-    "part": "de ",
-    "start": 815,
-    "end": 921
-  },
-  {
-    "part": "dados, ",
-    "start": 934,
-    "end": 1421
-  },
-  {
-    "part": "uso ",
-    "start": 1671,
-    "end": 1947
-  },
-  {
-    "part": "SQLite ",
-    "start": 1960,
-    "end": 2710
+    "start": 546,
+    "end": 898
   },
   {
     "part": "relacional ",
-    "start": 2723,
-    "end": 3447
+    "start": 911,
+    "end": 1536
   },
   {
-    "part": "em ",
-    "start": 3460,
-    "end": 3552
+    "part": "SQLite, ",
+    "start": 1549,
+    "end": 2265
   },
   {
-    "part": "dados",
-    "start": 3565,
-    "end": 3986
+    "part": "no ",
+    "start": 2552,
+    "end": 2656
   },
   {
-    "part": ".",
-    "start": 4000,
-    "end": 4315
+    "part": "arquivo ",
+    "start": 2669,
+    "end": 3125
   },
   {
-    "part": "sqlite. ",
-    "start": 4328,
-    "end": 4921
+    "part": "dados ",
+    "start": 3138,
+    "end": 3489
   },
   {
-    "part": "As ",
-    "start": 5197,
-    "end": 5342
+    "part": "ponto ",
+    "start": 3502,
+    "end": 3802
   },
   {
-    "part": "tabelas ",
-    "start": 5355,
-    "end": 5868
+    "part": "sqlite, ",
+    "start": 3815,
+    "end": 4322
   },
   {
-    "part": "relacionam ",
-    "start": 5881,
-    "end": 6565
+    "part": "armazeno ",
+    "start": 4570,
+    "end": 5104
   },
   {
     "part": "usuários ",
-    "start": 6578,
-    "end": 7118
+    "start": 5117,
+    "end": 5546
   },
   {
     "part": "e ",
-    "start": 7131,
-    "end": 7249
+    "start": 5559,
+    "end": 5664
   },
   {
-    "part": "lançamentos ",
-    "start": 7263,
-    "end": 7999
+    "part": "lançamentos. ",
+    "start": 5677,
+    "end": 6510
   },
   {
-    "part": "por ",
-    "start": 8013,
-    "end": 8171
+    "part": "No ",
+    "start": 7408,
+    "end": 7617
   },
   {
-    "part": "chave ",
-    "start": 8184,
-    "end": 8539
+    "part": "auth ",
+    "start": 7630,
+    "end": 7929
   },
   {
-    "part": "estrangeira ",
-    "start": 8552,
-    "end": 9263
+    "part": "ponto ",
+    "start": 7942,
+    "end": 8281
   },
   {
-    "part": "e ",
-    "start": 9289,
-    "end": 9381
+    "part": "JS, ",
+    "start": 8294,
+    "end": 9023
   },
   {
-    "part": "guardam ",
-    "start": 9394,
-    "end": 9868
+    "part": "protejo ",
+    "start": 9283,
+    "end": 9752
   },
   {
-    "part": "período, ",
-    "start": 9881,
-    "end": 10381
+    "part": "senhas ",
+    "start": 9765,
+    "end": 10221
   },
   {
-    "part": "horas, ",
-    "start": 10539,
-    "end": 10960
-  },
-  {
-    "part": "justificativa, ",
-    "start": 11065,
-    "end": 12013
-  },
-  {
-    "part": "status ",
-    "start": 12065,
-    "end": 12513
-  },
-  {
-    "part": "e ",
-    "start": 12526,
-    "end": 12631
-  },
-  {
-    "part": "parecer. ",
-    "start": 12657,
-    "end": 13236
-  },
-  {
-    "part": "Em ",
-    "start": 13513,
-    "end": 13710
-  },
-  {
-    "part": "auth",
-    "start": 13723,
-    "end": 13973
-  },
-  {
-    "part": ".",
-    "start": 13986,
-    "end": 14302
-  },
-  {
-    "part": "js, ",
-    "start": 14315,
-    "end": 15118
-  },
-  {
-    "part": "implementei ",
-    "start": 15236,
-    "end": 15881
+    "part": "com ",
+    "start": 10234,
+    "end": 10429
   },
   {
     "part": "hash ",
-    "start": 15894,
-    "end": 16197
-  },
-  {
-    "part": "de ",
-    "start": 16210,
-    "end": 16315
-  },
-  {
-    "part": "senha ",
-    "start": 16328,
-    "end": 16710
-  },
-  {
-    "part": "com ",
-    "start": 16723,
-    "end": 16894
+    "start": 10442,
+    "end": 10716
   },
   {
     "part": "scrypt ",
-    "start": 16907,
-    "end": 18500
+    "start": 10729,
+    "end": 12200
   },
   {
     "part": "e ",
-    "start": 18513,
-    "end": 18578
+    "start": 12213,
+    "end": 12265
   },
   {
-    "part": "JWT ",
-    "start": 18592,
-    "end": 19473
-  },
-  {
-    "part": "assinado ",
-    "start": 19486,
-    "end": 20052
+    "part": "autentico ",
+    "start": 12278,
+    "end": 12812
   },
   {
     "part": "com ",
-    "start": 20065,
-    "end": 20210
+    "start": 12825,
+    "end": 13046
   },
   {
-    "part": "HMAC-SHA256. ",
-    "start": 20223,
-    "end": 21986
+    "part": "token ",
+    "start": 13059,
+    "end": 13450
+  },
+  {
+    "part": "Jota ",
+    "start": 13463,
+    "end": 13854
+  },
+  {
+    "part": "Dáblio ",
+    "start": 13867,
+    "end": 14231
+  },
+  {
+    "part": "Tê, ",
+    "start": 14244,
+    "end": 14544
+  },
+  {
+    "part": "assinado ",
+    "start": 14817,
+    "end": 15377
+  },
+  {
+    "part": "no ",
+    "start": 15390,
+    "end": 15494
+  },
+  {
+    "part": "servidor. ",
+    "start": 15507,
+    "end": 16041
   },
   {
     "part": "Separei ",
-    "start": 22263,
-    "end": 22868
+    "start": 16940,
+    "end": 17513
   },
   {
     "part": "os ",
-    "start": 22881,
-    "end": 22986
+    "start": 17526,
+    "end": 17630
   },
   {
     "part": "perfis ",
-    "start": 23000,
-    "end": 23447
+    "start": 17643,
+    "end": 18072
   },
   {
     "part": "Colaborador ",
-    "start": 23460,
-    "end": 24223
+    "start": 18085,
+    "end": 18789
   },
   {
     "part": "e ",
-    "start": 24236,
-    "end": 24302
+    "start": 18802,
+    "end": 18841
   },
   {
-    "part": "Supervisor; ",
-    "start": 24315,
-    "end": 25105
+    "part": "Supervisor, ",
+    "start": 18854,
+    "end": 19557
   },
   {
-    "part": "as ",
-    "start": 25368,
-    "end": 25486
+    "part": "com ",
+    "start": 19882,
+    "end": 20052
   },
   {
     "part": "permissões ",
-    "start": 25500,
-    "end": 26184
-  },
-  {
-    "part": "são ",
-    "start": 26197,
-    "end": 26381
+    "start": 20065,
+    "end": 20625
   },
   {
     "part": "verificadas ",
-    "start": 26394,
-    "end": 27131
+    "start": 20638,
+    "end": 21315
   },
   {
-    "part": "pelo ",
-    "start": 27144,
-    "end": 27355
+    "part": "em ",
+    "start": 21328,
+    "end": 21549
   },
   {
-    "part": "servidor.",
-    "start": 27368,
-    "end": 27999
+    "part": "cada ",
+    "start": 21562,
+    "end": 21835
+  },
+  {
+    "part": "requisição.",
+    "start": 21848,
+    "end": 22539
   }
 ]

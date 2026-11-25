@@ -69,3 +69,4 @@ A tela de login tem botões de acesso rápido para essas três contas.
   da folha.
 - `node:sqlite` é um recurso ainda marcado como experimental pelo Node.js.
 - Não há testes automatizados nem HTTPS configurado (uso local/demonstração).
+ZZs

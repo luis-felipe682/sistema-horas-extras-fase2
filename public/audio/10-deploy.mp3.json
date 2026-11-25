@@ -2,251 +2,211 @@
   {
     "part": "Versionei ",
     "start": 52,
-    "end": 644
+    "end": 651
   },
   {
     "part": "o ",
-    "start": 657,
-    "end": 723
+    "start": 664,
+    "end": 742
   },
   {
-    "part": "código-fonte ",
-    "start": 736,
-    "end": 1565
+    "part": "código ",
+    "start": 755,
+    "end": 1197
   },
   {
     "part": "no ",
-    "start": 1578,
-    "end": 1684
+    "start": 1210,
+    "end": 1315
   },
   {
     "part": "GitHub ",
-    "start": 1697,
-    "end": 2513
+    "start": 1328,
+    "end": 1927
   },
   {
     "part": "e ",
-    "start": 2578,
-    "end": 2657
+    "start": 1940,
+    "end": 1979
   },
   {
-    "part": "integrei ",
-    "start": 2671,
-    "end": 3171
+    "part": "configurei ",
+    "start": 1992,
+    "end": 2591
   },
   {
     "part": "o ",
-    "start": 3184,
-    "end": 3263
+    "start": 2604,
+    "end": 2669
   },
   {
     "part": "deploy ",
-    "start": 3276,
-    "end": 3671
+    "start": 2682,
+    "end": 3046
   },
   {
     "part": "contínuo ",
-    "start": 3684,
-    "end": 4210
+    "start": 3059,
+    "end": 3632
   },
   {
     "part": "no ",
-    "start": 4223,
-    "end": 4328
+    "start": 3645,
+    "end": 3736
   },
   {
     "part": "Render. ",
-    "start": 4342,
-    "end": 4763
+    "start": 3750,
+    "end": 4166
   },
   {
     "part": "A ",
-    "start": 5039,
-    "end": 5157
+    "start": 5065,
+    "end": 5221
   },
   {
     "part": "aplicação ",
-    "start": 5171,
-    "end": 5776
+    "start": 5234,
+    "end": 5872
   },
   {
     "part": "está ",
-    "start": 5789,
-    "end": 5973
+    "start": 5885,
+    "end": 6080
   },
   {
     "part": "publicada ",
-    "start": 5986,
-    "end": 6618
+    "start": 6093,
+    "end": 6718
   },
   {
     "part": "em ",
-    "start": 6631,
-    "end": 6710
+    "start": 6731,
+    "end": 6809
   },
   {
-    "part": "sistema-horas-extras-fase2",
-    "start": 6723,
-    "end": 9368
+    "part": "sistema-horas-extras-fase2 ",
+    "start": 6822,
+    "end": 8984
   },
   {
-    "part": ".",
-    "start": 9381,
-    "end": 9736
+    "part": "ponto ",
+    "start": 8997,
+    "end": 9296
   },
   {
-    "part": "onrender",
-    "start": 9750,
-    "end": 10197
+    "part": "onrender ",
+    "start": 9309,
+    "end": 9765
   },
   {
-    "part": ".",
-    "start": 10263,
-    "end": 10578
+    "part": "ponto ",
+    "start": 9778,
+    "end": 10182
   },
   {
     "part": "com, ",
-    "start": 10592,
-    "end": 10894
+    "start": 10195,
+    "end": 10442
   },
   {
     "part": "com ",
-    "start": 10973,
-    "end": 11105
+    "start": 10794,
+    "end": 11002
   },
   {
-    "part": "HTTPS ",
-    "start": 11118,
-    "end": 11947
+    "part": "H ",
+    "start": 11015,
+    "end": 11315
+  },
+  {
+    "part": "T ",
+    "start": 11328,
+    "end": 11549
+  },
+  {
+    "part": "T ",
+    "start": 11562,
+    "end": 11744
+  },
+  {
+    "part": "P ",
+    "start": 11757,
+    "end": 11914
+  },
+  {
+    "part": "S ",
+    "start": 11927,
+    "end": 12200
   },
   {
     "part": "ativo. ",
-    "start": 11960,
-    "end": 12473
+    "start": 12213,
+    "end": 12656
   },
   {
     "part": "Assim, ",
-    "start": 12750,
-    "end": 13210
+    "start": 13554,
+    "end": 14075
   },
   {
     "part": "a ",
-    "start": 13250,
-    "end": 13315
-  },
-  {
-    "part": "versão ",
-    "start": 13328,
-    "end": 13749
-  },
-  {
-    "part": "de ",
-    "start": 13763,
-    "end": 13868
+    "start": 14322,
+    "end": 14414
   },
   {
     "part": "produção ",
-    "start": 13881,
-    "end": 14421
+    "start": 14427,
+    "end": 14973
   },
   {
     "part": "acompanha ",
-    "start": 14434,
-    "end": 15013
+    "start": 14987,
+    "end": 15533
   },
   {
-    "part": "as ",
-    "start": 15026,
-    "end": 15052
-  },
-  {
-    "part": "atualizações ",
-    "start": 15065,
-    "end": 15986
-  },
-  {
-    "part": "do ",
-    "start": 16000,
-    "end": 16105
+    "part": "o ",
+    "start": 15546,
+    "end": 15559
   },
   {
     "part": "repositório ",
-    "start": 16118,
-    "end": 16973
+    "start": 15572,
+    "end": 16289
   },
   {
     "part": "e ",
-    "start": 17026,
-    "end": 17105
+    "start": 16302,
+    "end": 16354
   },
   {
     "part": "pode ",
-    "start": 17118,
-    "end": 17421
+    "start": 16367,
+    "end": 16614
   },
   {
     "part": "ser ",
-    "start": 17434,
-    "end": 17605
+    "start": 16627,
+    "end": 16783
   },
   {
     "part": "acessada ",
-    "start": 17618,
-    "end": 18236
+    "start": 16796,
+    "end": 17369
   },
   {
     "part": "com ",
-    "start": 18250,
-    "end": 18407
+    "start": 17382,
+    "end": 17552
   },
   {
     "part": "conexão ",
-    "start": 18421,
-    "end": 19039
+    "start": 17565,
+    "end": 18190
   },
   {
-    "part": "criptografada. ",
-    "start": 19052,
-    "end": 20052
-  },
-  {
-    "part": "Essa ",
-    "start": 20328,
-    "end": 20618
-  },
-  {
-    "part": "publicação ",
-    "start": 20631,
-    "end": 21276
-  },
-  {
-    "part": "facilita ",
-    "start": 21289,
-    "end": 21881
-  },
-  {
-    "part": "a ",
-    "start": 21894,
-    "end": 21921
-  },
-  {
-    "part": "demonstração ",
-    "start": 21934,
-    "end": 22763
-  },
-  {
-    "part": "e ",
-    "start": 22776,
-    "end": 22828
-  },
-  {
-    "part": "a ",
-    "start": 22842,
-    "end": 22881
-  },
-  {
-    "part": "avaliação.",
-    "start": 22894,
-    "end": 23592
+    "part": "criptografada.",
+    "start": 18203,
+    "end": 19140
   }
 ]

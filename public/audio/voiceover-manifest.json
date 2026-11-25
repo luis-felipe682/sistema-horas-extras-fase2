@@ -1,9 +1,9 @@
 {
-  "voice": "pt-BR-FranciscaNeural",
-  "rate": "-5%",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-4%",
   "fps": 30,
   "targetSeconds": 240,
-  "totalDurationSeconds": 228.552,
+  "totalDurationSeconds": 209.832,
   "allFit": true,
   "segments": [
     {
@@ -12,9 +12,9 @@
       "seconds": 20,
       "scene": "intro",
       "text": "Olá, professor. Nesta apresentação final da Fase 3, vou demonstrar o Sistema de Gestão de Horas Extras e Sobreaviso que eu desenvolvi. Vou explicar o problema, as decisões técnicas da solução e mostrar o sistema funcionando passo a passo, com exemplos práticos da rotina de trabalho.",
-      "rate": "-5%",
-      "durationSeconds": 18.816,
-      "durationFrames": 565,
+      "rate": "-4%",
+      "durationSeconds": 19.68,
+      "durationFrames": 591,
       "fits": true
     },
     {
@@ -22,10 +22,10 @@
       "label": "Bloco 1 · Problema",
       "seconds": 20,
       "scene": "problem",
-      "text": "O problema começa no controle de jornadas e escalas de sobreaviso em planilhas ou papel. Esse modelo favorece erros nos adicionais de cinquenta e cem por cento, atrasos de aprovação e retrabalho. Também reduz a transparência sobre cálculos e andamento dos pedidos, dificultando a conferência posterior.",
-      "rate": "-5%",
-      "durationSeconds": 19.536,
-      "durationFrames": 587,
+      "text": "O problema começa no controle de jornadas e sobreaviso por planilhas ou papel. Esse modelo favorece erros nos adicionais de cinquenta e cem por cento, atrasos e retrabalho, além de dificultar a transparência e a conferência dos pedidos.",
+      "rate": "-4%",
+      "durationSeconds": 15.672,
+      "durationFrames": 471,
       "fits": true
     },
     {
@@ -33,10 +33,10 @@
       "label": "Bloco 2 · Backend e API",
       "seconds": 20,
       "scene": "architecture",
-      "text": "Para resolver isso, eu projetei uma aplicação que centraliza o fluxo. No backend, construí uma API REST em Node.js puro, usando módulos nativos, sem framework pesado. Mantive a estrutura enxuta e fácil de manter, com regras de cálculo e validação executadas no servidor.",
-      "rate": "-5%",
-      "durationSeconds": 19.416,
-      "durationFrames": 583,
+      "text": "Para resolver isso, projetei uma aplicação que centraliza o fluxo. No backend, construí uma A P I, REST, em Node.js puro, com módulos nativos e sem framework pesado. As regras de cálculo e validação são executadas no servidor.",
+      "rate": "-4%",
+      "durationSeconds": 18.384,
+      "durationFrames": 552,
       "fits": true
     },
     {
@@ -44,10 +44,10 @@
       "label": "Bloco 2 · Dados e segurança",
       "seconds": 30,
       "scene": "architecture",
-      "text": "Aqui no banco de dados, uso SQLite relacional em dados.sqlite. As tabelas relacionam usuários e lançamentos por chave estrangeira e guardam período, horas, justificativa, status e parecer. Em auth.js, implementei hash de senha com scrypt e JWT assinado com HMAC-SHA256. Separei os perfis Colaborador e Supervisor; as permissões são verificadas pelo servidor.",
-      "rate": "-5%",
-      "durationSeconds": 28.944,
-      "durationFrames": 869,
+      "text": "Aqui no banco relacional SQLite, no arquivo dados ponto sqlite, armazeno usuários e lançamentos. No auth ponto JS, protejo senhas com hash scrypt e autentico com token Jota Dáblio Tê, assinado no servidor. Separei os perfis Colaborador e Supervisor, com permissões verificadas em cada requisição.",
+      "rate": "-4%",
+      "durationSeconds": 23.448,
+      "durationFrames": 704,
       "fits": true
     },
     {
@@ -55,10 +55,10 @@
       "label": "Bloco 3 · Cadastro e login",
       "seconds": 15,
       "scene": "login",
-      "text": "Na tela inicial, a pessoa cria uma conta e escolhe o perfil de acesso, ou entra com suas credenciais. O servidor confere o hash da senha e inicia uma sessão com token assinado. Vou começar pelo perfil Colaborador.",
-      "rate": "-5%",
-      "durationSeconds": 14.376,
-      "durationFrames": 432,
+      "text": "Na tela inicial, a pessoa cria a conta e escolhe o perfil, ou entra com suas credenciais. O servidor confere a senha e inicia a sessão com token assinado. Vou começar como Colaborador.",
+      "rate": "-4%",
+      "durationSeconds": 13.848,
+      "durationFrames": 416,
       "fits": true
     },
     {
@@ -67,9 +67,9 @@
       "seconds": 20,
       "scene": "dashboard",
       "text": "O painel exibe o resumo do mês. Eu calculo o total garantido dos registros aprovados e apresento também a estimativa baseada nos lançamentos, sempre identificada como estimativa. O colaborador acompanha os valores e os dados da própria jornada, sem refazer cálculos manualmente.",
-      "rate": "-5%",
-      "durationSeconds": 18.744,
-      "durationFrames": 563,
+      "rate": "-4%",
+      "durationSeconds": 19.512,
+      "durationFrames": 586,
       "fits": true
     },
     {
@@ -78,9 +78,9 @@
       "seconds": 20,
       "scene": "form",
       "text": "Na aba de lançamento, escolho hora extra de cinquenta ou cem por cento, ou sobreaviso. Informo data, horário de início e fim e justificativa técnica. A API valida a requisição e grava o registro com status pendente no banco, pronto para análise, com os dados reunidos.",
-      "rate": "-5%",
-      "durationSeconds": 18.216,
-      "durationFrames": 547,
+      "rate": "-4%",
+      "durationSeconds": 19.512,
+      "durationFrames": 586,
       "fits": true
     },
     {
@@ -88,10 +88,10 @@
       "label": "Bloco 3 · Histórico",
       "seconds": 15,
       "scene": "history",
-      "text": "O lançamento aparece no histórico. Eu filtro por tipo ou status e confiro duração e parecer. Enquanto ainda está pendente, o colaborador também pode excluir o próprio registro antes da análise, sem perder o contexto.",
-      "rate": "-5%",
-      "durationSeconds": 14.424,
-      "durationFrames": 433,
+      "text": "O lançamento aparece no histórico, onde filtro por tipo ou status e confiro duração e parecer. Enquanto está pendente, o colaborador pode excluir o próprio registro antes da análise.",
+      "rate": "-4%",
+      "durationSeconds": 12.744,
+      "durationFrames": 383,
       "fits": true
     },
     {
@@ -99,10 +99,10 @@
       "label": "Bloco 3 · Supervisor e banco",
       "seconds": 30,
       "scene": "approval",
-      "text": "Agora, como Supervisor, consulto a fila de pedidos pendentes da equipe. Eu confiro a justificativa e aprovo ou reprovo com um parecer. Por privacidade, o gestor vê os dados operacionais necessários, mas não o salário base nem os valores individuais. A decisão atualiza o status no banco relacional dados.sqlite. Após atualizar o histórico, o colaborador consulta o resultado, sem expor dados financeiros pessoais.",
-      "rate": "-5%",
-      "durationSeconds": 28.248,
-      "durationFrames": 848,
+      "text": "Como Supervisor, consulto a fila de pendências, confiro a justificativa e aprovo ou reprovo com parecer. Por privacidade, o gestor vê os dados operacionais, mas não o salário base nem valores individuais. A decisão atualiza o status em dados ponto sqlite, e o colaborador acompanha o resultado no histórico.",
+      "rate": "-4%",
+      "durationSeconds": 22.152,
+      "durationFrames": 665,
       "fits": true
     },
     {
@@ -110,10 +110,10 @@
       "label": "Bloco 4 · Versionamento e deploy",
       "seconds": 25,
       "scene": "deploy",
-      "text": "Versionei o código-fonte no GitHub e integrei o deploy contínuo no Render. A aplicação está publicada em sistema-horas-extras-fase2.onrender.com, com HTTPS ativo. Assim, a versão de produção acompanha as atualizações do repositório e pode ser acessada com conexão criptografada. Essa publicação facilita a demonstração e a avaliação.",
-      "rate": "-5%",
-      "durationSeconds": 24.504,
-      "durationFrames": 736,
+      "text": "Versionei o código no GitHub e configurei o deploy contínuo no Render. A aplicação está publicada em sistema-horas-extras-fase2 ponto onrender ponto com, com H T T P S ativo. Assim, a produção acompanha o repositório e pode ser acessada com conexão criptografada.",
+      "rate": "-4%",
+      "durationSeconds": 20.04,
+      "durationFrames": 602,
       "fits": true
     },
     {
@@ -122,9 +122,9 @@
       "seconds": 25,
       "scene": "outro",
       "text": "Com essa solução, eu reduzo o retrabalho manual, organizo os cálculos e mantenho rastreabilidade desde o lançamento até a aprovação. O colaborador acompanha seus pedidos e o supervisor avalia sem acessar dados financeiros individuais. Assim, consigo demonstrar o percurso completo e explicar como cada regra aparece no código e nos dados. Muito obrigado.",
-      "rate": "-5%",
-      "durationSeconds": 23.328,
-      "durationFrames": 700,
+      "rate": "-4%",
+      "durationSeconds": 24.84,
+      "durationFrames": 746,
       "fits": true
     }
   ]
